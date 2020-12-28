@@ -1,0 +1,832 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="717" height="321" viewBox="0 0 717 321">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Trazado_108866" data-name="Trazado 108866" d="M0,0H717V-321H0Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Trazado_108870" data-name="Trazado 108870" d="M1,0H717V-320H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <path id="Trazado_108875" data-name="Trazado 108875" d="M1-253H717v-31H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <path id="Trazado_108876" data-name="Trazado 108876" d="M1-235H717v-17H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-10">
+      <path id="Trazado_108878" data-name="Trazado 108878" d="M1-217H717v-17H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-12">
+      <path id="Trazado_108880" data-name="Trazado 108880" d="M1-199H717v-17H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-13">
+      <path id="Trazado_108881" data-name="Trazado 108881" d="M1-181H717v-17H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-14">
+      <path id="Trazado_108882" data-name="Trazado 108882" d="M1-163H717v-17H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-15">
+      <path id="Trazado_108883" data-name="Trazado 108883" d="M1-145H717v-17H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-16">
+      <path id="Trazado_108884" data-name="Trazado 108884" d="M1-127H717v-17H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-17">
+      <path id="Trazado_108885" data-name="Trazado 108885" d="M1-109H717v-17H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-18">
+      <path id="Trazado_108886" data-name="Trazado 108886" d="M1-73H717v-35H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-19">
+      <path id="Trazado_108887" data-name="Trazado 108887" d="M1-55H717V-72H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-20">
+      <path id="Trazado_108888" data-name="Trazado 108888" d="M1-37H717V-54H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-21">
+      <path id="Trazado_108889" data-name="Trazado 108889" d="M88-1H452V-36H88Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-23">
+      <path id="Trazado_108891" data-name="Trazado 108891" d="M1-1H717V-36H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-24">
+      <path id="Trazado_108892" data-name="Trazado 108892" d="M1-285H716v-35H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-25">
+      <path id="Trazado_108893" data-name="Trazado 108893" d="M1-1H87V-252H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-26">
+      <path id="Trazado_108894" data-name="Trazado 108894" d="M453-37H716V-216H453Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_41345" data-name="Grupo 41345" transform="translate(0 321)">
+    <g id="Grupo_41249" data-name="Grupo 41249" clip-path="url(#clip-path)">
+      <path id="Trazado_108865" data-name="Trazado 108865" d="M0-321H717v1H0Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41250" data-name="Grupo 41250" clip-path="url(#clip-path)">
+      <path id="Trazado_108867" data-name="Trazado 108867" d="M0-321H1V0H0Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41251" data-name="Grupo 41251" clip-path="url(#clip-path-3)">
+      <path id="Trazado_108869" data-name="Trazado 108869" d="M0-321H717v37H0Z" fill="#14579e"/>
+    </g>
+    <g id="Grupo_41252" data-name="Grupo 41252" clip-path="url(#clip-path-3)">
+      <path id="Trazado_108871" data-name="Trazado 108871" d="M0-285H717v33H0Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_41254" data-name="Grupo 41254" clip-path="url(#clip-path-3)">
+      <g id="Grupo_41253" data-name="Grupo 41253" transform="translate(18 -265)">
+        <g id="Grupo">
+          <text id="IN" fill="#fff" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.004em"><tspan x="0" y="0">IN</tspan></text>
+          <text id="S" transform="translate(13.999)" fill="#fff" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.004em"><tspan x="0" y="0">S</tspan></text>
+          <text id="U" transform="translate(21.995)" fill="#fff" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.004em"><tspan x="0" y="0">U</tspan></text>
+          <text id="M" transform="translate(29.99)" fill="#fff" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.004em"><tspan x="0" y="0">M</tspan></text>
+          <text id="O" transform="translate(41.994)" fill="#fff" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.004em"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_41256" data-name="Grupo 41256" clip-path="url(#clip-path-3)">
+      <g id="Grupo_41255" data-name="Grupo 41255" transform="translate(244 -265)">
+        <text id="ENSAYO" fill="#fff" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.023em"><tspan x="0" y="0">ENSAYO</tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_41258" data-name="Grupo 41258" clip-path="url(#clip-path-7)">
+      <g id="Grupo_41257" data-name="Grupo 41257" transform="translate(560 -265)">
+        <text id="NORMA" fill="#fff" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.022em"><tspan x="0" y="0">NORMA</tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_41260" data-name="Grupo 41260" clip-path="url(#clip-path-8)">
+      <g id="Grupo_41259" data-name="Grupo 41259" transform="translate(90 -240)">
+        <g id="Grupo-2" data-name="Grupo">
+          <text id="An" font-size="12" font-family="Helvetica" letter-spacing="-0.003em"><tspan x="0" y="0">An</tspan></text>
+          <text id="á" transform="translate(15.005)" font-size="12" font-family="Helvetica" letter-spacing="-0.003em"><tspan x="0" y="0">á</tspan></text>
+          <text id="lis" transform="translate(21.001)" font-size="12" font-family="Helvetica" letter-spacing="-0.003em"><tspan x="0" y="0">lis</tspan></text>
+          <text id="is" transform="translate(32.99)" font-size="12" font-family="Helvetica" letter-spacing="-0.003em"><tspan x="0" y="0">is</tspan></text>
+          <text id="_c" data-name=" c" transform="translate(41.983)" font-size="12" font-family="Helvetica" letter-spacing="-0.003em"><tspan x="0" y="0" xml:space="preserve"> c</tspan></text>
+          <text id="u-2" data-name="u" transform="translate(51.984)" font-size="12" font-family="Helvetica" letter-spacing="-0.003em"><tspan x="0" y="0">u</tspan></text>
+          <text id="a" transform="translate(58.988)" font-size="12" font-family="Helvetica" letter-spacing="-0.003em"><tspan x="0" y="0">a</tspan></text>
+          <text id="lita" transform="translate(64.985)" font-size="12" font-family="Helvetica" letter-spacing="-0.003em"><tspan x="0" y="0">lita</tspan></text>
+          <text id="tivo." transform="translate(80.978)" font-size="12" font-family="Helvetica" letter-spacing="-0.003em"><tspan x="0" y="0">tivo.</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_41262" data-name="Grupo 41262" clip-path="url(#clip-path-8)">
+      <g id="Grupo_41261" data-name="Grupo 41261" transform="translate(522 -240)">
+        <g id="Grupo-3" data-name="Grupo">
+          <text id="NT" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">NT</tspan></text>
+          <text id="C" transform="translate(15)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">C</tspan></text>
+          <text id="_1" data-name=" 1" transform="translate(24)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0" xml:space="preserve"> 1</tspan></text>
+          <text id="_2" data-name="2" transform="translate(33.996)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">2</tspan></text>
+          <text id="_1-2" data-name="1" transform="translate(40.992)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">1</tspan></text>
+          <text id="_3" data-name="3" transform="translate(47.988)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">3</tspan></text>
+          <text id="_" data-name=" /" transform="translate(54.984)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0" xml:space="preserve"> /</tspan></text>
+          <text id="_AAT" data-name=" AAT" transform="translate(64.98)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0" xml:space="preserve"> AAT</tspan></text>
+          <text id="C-2" data-name="C" transform="translate(89.988)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">C</tspan></text>
+          <text id="C-3" data-name="C" transform="translate(98.988)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">C</tspan></text>
+          <text id="_2-2" data-name=" 2" transform="translate(107.988)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0" xml:space="preserve"> 2</tspan></text>
+          <text id="_0" data-name="0" transform="translate(117.984)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">0</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_41264" data-name="Grupo 41264" clip-path="url(#clip-path-10)">
+      <g id="Grupo_41263" data-name="Grupo 41263" transform="translate(90 -222)">
+        <g id="Grupo-4" data-name="Grupo">
+          <text id="An-2" data-name="An" font-size="12" font-family="Helvetica" letter-spacing="-0.003em"><tspan x="0" y="0">An</tspan></text>
+          <text id="á-2" data-name="á" transform="translate(15.005)" font-size="12" font-family="Helvetica" letter-spacing="-0.003em"><tspan x="0" y="0">á</tspan></text>
+          <text id="lis-2" data-name="lis" transform="translate(21.001)" font-size="12" font-family="Helvetica" letter-spacing="-0.003em"><tspan x="0" y="0">lis</tspan></text>
+          <text id="is-2" data-name="is" transform="translate(32.99)" font-size="12" font-family="Helvetica" letter-spacing="-0.003em"><tspan x="0" y="0">is</tspan></text>
+          <text id="_c-2" data-name=" c" transform="translate(41.983)" font-size="12" font-family="Helvetica" letter-spacing="-0.003em"><tspan x="0" y="0" xml:space="preserve"> c</tspan></text>
+          <text id="u-3" data-name="u" transform="translate(51.984)" font-size="12" font-family="Helvetica" letter-spacing="-0.003em"><tspan x="0" y="0">u</tspan></text>
+          <text id="a-2" data-name="a" transform="translate(58.988)" font-size="12" font-family="Helvetica" letter-spacing="-0.003em"><tspan x="0" y="0">a</tspan></text>
+          <text id="n" transform="translate(64.985)" font-size="12" font-family="Helvetica" letter-spacing="-0.003em"><tspan x="0" y="0">n</tspan></text>
+          <text id="tita" transform="translate(71.989)" font-size="12" font-family="Helvetica" letter-spacing="-0.003em"><tspan x="0" y="0">tita</tspan></text>
+          <text id="tivo.-2" data-name="tivo." transform="translate(88.991)" font-size="12" font-family="Helvetica" letter-spacing="-0.003em"><tspan x="0" y="0">tivo.</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_41266" data-name="Grupo 41266" clip-path="url(#clip-path-10)">
+      <g id="Grupo_41265" data-name="Grupo 41265" transform="translate(489 -222)">
+        <g id="Grupo-5" data-name="Grupo">
+          <text id="NT-2" data-name="NT" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">NT</tspan></text>
+          <text id="C-4" data-name="C" transform="translate(15)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">C</tspan></text>
+          <text id="_4" data-name=" 4" transform="translate(24)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0" xml:space="preserve"> 4</tspan></text>
+          <text id="_8" data-name="8" transform="translate(33.996)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">8</tspan></text>
+          <text id="_1-3" data-name="1" transform="translate(40.992)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">1</tspan></text>
+          <text id=":" transform="translate(47.988)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">:</tspan></text>
+          <text id="_2-3" data-name="2" transform="translate(51.984)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">2</tspan></text>
+          <text id="_0-2" data-name="0" transform="translate(58.98)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">0</tspan></text>
+          <text id="_1-4" data-name="1" transform="translate(65.976)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">1</tspan></text>
+          <text id="_2-4" data-name="2" transform="translate(72.972)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">2</tspan></text>
+          <text id="_2-5" data-name=" /" transform="translate(79.968)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0" xml:space="preserve"> /</tspan></text>
+          <text id="_AS" data-name=" AS" transform="translate(89.964)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0" xml:space="preserve"> AS</tspan></text>
+          <text id="T" transform="translate(107.964)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">T</tspan></text>
+          <text id="MD" transform="translate(113.964)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">MD</tspan></text>
+          <text id="_6" data-name=" 6" transform="translate(133.968)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0" xml:space="preserve"> 6</tspan></text>
+          <text id="_2-6" data-name="2" transform="translate(143.964)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">2</tspan></text>
+          <text id="_9" data-name="9" transform="translate(150.96)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">9</tspan></text>
+          <text id=":-2" data-name=":" transform="translate(157.956)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">:</tspan></text>
+          <text id="_2-7" data-name="2" transform="translate(161.952)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">2</tspan></text>
+          <text id="_0-3" data-name="0" transform="translate(168.948)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">0</tspan></text>
+          <text id="_0-4" data-name="0" transform="translate(175.944)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">0</tspan></text>
+          <text id="_8-2" data-name="8" transform="translate(182.94)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">8</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_41268" data-name="Grupo 41268" clip-path="url(#clip-path-12)">
+      <g id="Grupo_41267" data-name="Grupo 41267" transform="translate(90 -204)">
+        <g id="Grupo-6" data-name="Grupo">
+          <text id="Re" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">Re</tspan></text>
+          <text id="s-2" data-name="s" transform="translate(13.999)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="i" transform="translate(20.003)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="s-3" data-name="s" transform="translate(23.006)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="t-2" data-name="t" transform="translate(29.01)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">t</tspan></text>
+          <text id="e" transform="translate(33.01)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="n-2" data-name="n" transform="translate(40.009)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">n</tspan></text>
+          <text id="c-5" data-name="c" transform="translate(47.009)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">c</tspan></text>
+          <text id="i-2" data-name="i" transform="translate(54.008)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="a_" data-name="a " transform="translate(57.012)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">a </tspan></text>
+          <text id="de" transform="translate(66.019)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">de</tspan></text>
+          <text id="l" transform="translate(80.018)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">l</tspan></text>
+          <text id="_3-2" data-name=" " transform="translate(83.022)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="f" transform="translate(86.026)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">f</tspan></text>
+          <text id="r" transform="translate(90.025)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">r</tspan></text>
+          <text id="e-2" data-name="e" transform="translate(94.025)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="n-3" data-name="n" transform="translate(101.024)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">n</tspan></text>
+          <text id="o-2" data-name="o" transform="translate(108.024)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">o</tspan></text>
+          <text id="_." data-name="." transform="translate(115.024)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">.</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_41270" data-name="Grupo 41270" clip-path="url(#clip-path-13)">
+      <g id="Grupo_41269" data-name="Grupo 41269" transform="translate(90 -186)">
+        <g id="Grupo-7" data-name="Grupo">
+          <text id="Re-2" data-name="Re" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">Re</tspan></text>
+          <text id="s-4" data-name="s" transform="translate(13.999)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="i-3" data-name="i" transform="translate(20.003)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="s-5" data-name="s" transform="translate(23.006)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="t-3" data-name="t" transform="translate(29.01)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">t</tspan></text>
+          <text id="e-3" data-name="e" transform="translate(33.01)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="n-4" data-name="n" transform="translate(40.009)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">n</tspan></text>
+          <text id="c-6" data-name="c" transform="translate(47.009)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">c</tspan></text>
+          <text id="i-4" data-name="i" transform="translate(54.008)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="a_2" data-name="a " transform="translate(57.012)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">a </tspan></text>
+          <text id="de-2" data-name="de" transform="translate(66.019)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">de</tspan></text>
+          <text id="l-2" data-name="l" transform="translate(80.018)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">l</tspan></text>
+          <text id="_4-2" data-name=" " transform="translate(83.022)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="de-3" data-name="de" transform="translate(86.026)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">de</tspan></text>
+          <text id="s-6" data-name="s" transform="translate(100.025)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="l-3" data-name="l" transform="translate(106.028)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">l</tspan></text>
+          <text id="i-5" data-name="i" transform="translate(109.032)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="z" transform="translate(112.036)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">z</tspan></text>
+          <text id="ado" transform="translate(117.031)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">ado</tspan></text>
+          <text id="r-2" data-name="r" transform="translate(137.034)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">r</tspan></text>
+          <text id="_5" data-name=" " transform="translate(141.034)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="de-4" data-name="de" transform="translate(144.037)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">de</tspan></text>
+          <text id="_6-2" data-name=" " transform="translate(158.036)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="t-4" data-name="t" transform="translate(161.04)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">t</tspan></text>
+          <text id="i-6" data-name="i" transform="translate(165.04)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="r-3" data-name="r" transform="translate(168.043)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">r</tspan></text>
+          <text id="a_3" data-name="a " transform="translate(172.043)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">a </tspan></text>
+          <text id="s-7" data-name="s" transform="translate(181.05)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="i-7" data-name="i" transform="translate(187.054)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="m-2" data-name="m" transform="translate(190.057)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">m</tspan></text>
+          <text id="pl" transform="translate(200.057)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">pl</tspan></text>
+          <text id="e-4" data-name="e" transform="translate(210.06)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="_7" data-name=" " transform="translate(217.06)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="e-5" data-name="e" transform="translate(220.063)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="n-5" data-name="n" transform="translate(227.063)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">n</tspan></text>
+          <text id="_8-3" data-name=" " transform="translate(234.062)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="c-7" data-name="c" transform="translate(237.066)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">c</tspan></text>
+          <text id="i-8" data-name="i" transform="translate(244.066)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="e-6" data-name="e" transform="translate(247.069)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="r-4" data-name="r" transform="translate(254.069)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">r</tspan></text>
+          <text id="r-5" data-name="r" transform="translate(258.068)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">r</tspan></text>
+          <text id="e-7" data-name="e" transform="translate(262.068)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="s-8" data-name="s" transform="translate(269.068)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="_9-2" data-name=" " transform="translate(275.071)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="s-9" data-name="s" transform="translate(278.075)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="e-8" data-name="e" transform="translate(284.078)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="par" transform="translate(291.078)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">par</tspan></text>
+          <text id="abl" transform="translate(308.081)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">abl</tspan></text>
+          <text id="e-9" data-name="e" transform="translate(324.088)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="s-10" data-name="s" transform="translate(331.087)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="_.-2" data-name="." transform="translate(337.091)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">.</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_41272" data-name="Grupo 41272" clip-path="url(#clip-path-14)">
+      <g id="Grupo_41271" data-name="Grupo 41271" transform="translate(90 -168)">
+        <g id="Grupo-8" data-name="Grupo">
+          <text id="Det" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">Det</tspan></text>
+          <text id="er" transform="translate(19.992)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">er</tspan></text>
+          <text id="m-3" data-name="m" transform="translate(30.984)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">m</tspan></text>
+          <text id="i-9" data-name="i" transform="translate(40.98)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">i</tspan></text>
+          <text id="na" transform="translate(43.98)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">na</tspan></text>
+          <text id="ci" transform="translate(56.976)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">ci</tspan></text>
+          <text id="ó" transform="translate(66.972)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">ó</tspan></text>
+          <text id="n_" data-name="n " transform="translate(73.968)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">n </tspan></text>
+          <text id="d" transform="translate(83.964)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">d</tspan></text>
+          <text id="e_" data-name="e " transform="translate(90.96)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">e </tspan></text>
+          <text id="l-4" data-name="l" transform="translate(100.956)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">l</tspan></text>
+          <text id="a-3" data-name="a" transform="translate(103.956)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">a</tspan></text>
+          <text id="s_" data-name="s " transform="translate(109.956)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">s </tspan></text>
+          <text id="m-4" data-name="m" transform="translate(118.956)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">m</tspan></text>
+          <text id="ed" transform="translate(128.952)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">ed</tspan></text>
+          <text id="i-10" data-name="i" transform="translate(142.944)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">i</tspan></text>
+          <text id="d-2" data-name="d" transform="translate(145.944)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">d</tspan></text>
+          <text id="a-4" data-name="a" transform="translate(152.94)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">a</tspan></text>
+          <text id="s_2" data-name="s " transform="translate(158.94)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">s </tspan></text>
+          <text id="d-3" data-name="d" transform="translate(167.94)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">d</tspan></text>
+          <text id="e_2" data-name="e " transform="translate(174.936)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">e </tspan></text>
+          <text id="l-5" data-name="l" transform="translate(184.932)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">l</tspan></text>
+          <text id="o-3" data-name="o" transform="translate(187.932)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">o</tspan></text>
+          <text id="ng" transform="translate(194.928)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">ng</tspan></text>
+          <text id="i-11" data-name="i" transform="translate(208.92)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">i</tspan></text>
+          <text id="t-5" data-name="t" transform="translate(211.92)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">t</tspan></text>
+          <text id="ud" transform="translate(215.916)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">ud</tspan></text>
+          <text id="_10" data-name=" " transform="translate(229.908)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0"> </tspan></text>
+          <text id="d-4" data-name="d" transform="translate(232.908)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">d</tspan></text>
+          <text id="e_3" data-name="e " transform="translate(239.904)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">e </tspan></text>
+          <text id="l-6" data-name="l" transform="translate(249.9)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">l</tspan></text>
+          <text id="o-4" data-name="o" transform="translate(252.9)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">o</tspan></text>
+          <text id="s_3" data-name="s " transform="translate(259.896)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">s </tspan></text>
+          <text id="ci-2" data-name="ci" transform="translate(268.896)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">ci</tspan></text>
+          <text id="er-2" data-name="er" transform="translate(278.892)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">er</tspan></text>
+          <text id="r-6" data-name="r" transform="translate(289.884)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">r</tspan></text>
+          <text id="es." transform="translate(293.88)" font-size="12" font-family="Helvetica" letter-spacing="0.041em"><tspan x="0" y="0">es.</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_41274" data-name="Grupo 41274" clip-path="url(#clip-path-15)">
+      <g id="Grupo_41273" data-name="Grupo 41273" transform="translate(90 -150)">
+        <g id="Grupo-9" data-name="Grupo">
+          <text id="Re-3" data-name="Re" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">Re</tspan></text>
+          <text id="s-11" data-name="s" transform="translate(13.999)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="i-12" data-name="i" transform="translate(20.003)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="s-12" data-name="s" transform="translate(23.006)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="t-6" data-name="t" transform="translate(29.01)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">t</tspan></text>
+          <text id="e-10" data-name="e" transform="translate(33.01)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="n-6" data-name="n" transform="translate(40.009)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">n</tspan></text>
+          <text id="c-8" data-name="c" transform="translate(47.009)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">c</tspan></text>
+          <text id="i-13" data-name="i" transform="translate(54.008)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="a_4" data-name="a " transform="translate(57.012)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">a </tspan></text>
+          <text id="a_5" data-name="a " transform="translate(66.019)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">a </tspan></text>
+          <text id="l-7" data-name="l" transform="translate(75.026)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">l</tspan></text>
+          <text id="a_6" data-name="a " transform="translate(78.03)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">a </tspan></text>
+          <text id="c-9" data-name="c" transform="translate(87.037)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">c</tspan></text>
+          <text id="ar" transform="translate(94.037)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">ar</tspan></text>
+          <text id="g" transform="translate(104.04)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">g</tspan></text>
+          <text id="a_7" data-name="a " transform="translate(111.04)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">a </tspan></text>
+          <text id="l-8" data-name="l" transform="translate(120.047)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">l</tspan></text>
+          <text id="at" transform="translate(123.05)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">at</tspan></text>
+          <text id="e-11" data-name="e" transform="translate(133.054)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="r-7" data-name="r" transform="translate(140.053)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">r</tspan></text>
+          <text id="al" transform="translate(144.053)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">al</tspan></text>
+          <text id="_11" data-name=" " transform="translate(153.06)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="de-5" data-name="de" transform="translate(156.064)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">de</tspan></text>
+          <text id="l-9" data-name="l" transform="translate(170.063)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">l</tspan></text>
+          <text id="_12" data-name=" " transform="translate(173.066)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="c-10" data-name="c" transform="translate(176.07)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">c</tspan></text>
+          <text id="i-14" data-name="i" transform="translate(183.07)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="e-12" data-name="e" transform="translate(186.073)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="r-8" data-name="r" transform="translate(193.073)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">r</tspan></text>
+          <text id="r-9" data-name="r" transform="translate(197.072)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">r</tspan></text>
+          <text id="e-13" data-name="e" transform="translate(201.072)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="_.-3" data-name="." transform="translate(208.072)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">.</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_41276" data-name="Grupo 41276" clip-path="url(#clip-path-16)">
+      <g id="Grupo_41275" data-name="Grupo 41275" transform="translate(90 -132)">
+        <g id="Grupo-10" data-name="Grupo">
+          <text id="Re-4" data-name="Re" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">Re</tspan></text>
+          <text id="s-13" data-name="s" transform="translate(13.999)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="i-15" data-name="i" transform="translate(20.003)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="s-14" data-name="s" transform="translate(23.006)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="t-7" data-name="t" transform="translate(29.01)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">t</tspan></text>
+          <text id="e-14" data-name="e" transform="translate(33.01)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="n-7" data-name="n" transform="translate(40.009)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">n</tspan></text>
+          <text id="c-11" data-name="c" transform="translate(47.009)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">c</tspan></text>
+          <text id="i-16" data-name="i" transform="translate(54.008)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="a_8" data-name="a " transform="translate(57.012)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">a </tspan></text>
+          <text id="l-10" data-name="l" transform="translate(66.019)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">l</tspan></text>
+          <text id="at-2" data-name="at" transform="translate(69.023)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">at</tspan></text>
+          <text id="e-15" data-name="e" transform="translate(79.026)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="r-10" data-name="r" transform="translate(86.026)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">r</tspan></text>
+          <text id="al-2" data-name="al" transform="translate(90.025)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">al</tspan></text>
+          <text id="_13" data-name=" " transform="translate(99.032)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="de-6" data-name="de" transform="translate(102.036)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">de</tspan></text>
+          <text id="l-11" data-name="l" transform="translate(116.035)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">l</tspan></text>
+          <text id="_14" data-name=" " transform="translate(119.039)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="c-12" data-name="c" transform="translate(122.042)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">c</tspan></text>
+          <text id="o-5" data-name="o" transform="translate(129.042)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">o</tspan></text>
+          <text id="n-8" data-name="n" transform="translate(136.042)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">n</tspan></text>
+          <text id="j" transform="translate(143.041)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">j</tspan></text>
+          <text id="u-4" data-name="u" transform="translate(146.045)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">u</tspan></text>
+          <text id="n-9" data-name="n" transform="translate(153.044)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">n</tspan></text>
+          <text id="t-8" data-name="t" transform="translate(160.044)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">t</tspan></text>
+          <text id="o-6" data-name="o" transform="translate(164.044)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">o</tspan></text>
+          <text id="_15" data-name=" " transform="translate(171.043)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="s-15" data-name="s" transform="translate(174.047)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="e-16" data-name="e" transform="translate(180.05)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="par-2" data-name="par" transform="translate(187.05)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">par</tspan></text>
+          <text id="abl-2" data-name="abl" transform="translate(204.053)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">abl</tspan></text>
+          <text id="e-17" data-name="e" transform="translate(220.06)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="_16" data-name=" " transform="translate(227.059)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="_17" data-name="(" transform="translate(230.063)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">(</tspan></text>
+          <text id="pi" transform="translate(234.062)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">pi</tspan></text>
+          <text id="n-10" data-name="n" transform="translate(244.066)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">n</tspan></text>
+          <text id="_18" data-name=" " transform="translate(251.065)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="y" transform="translate(254.069)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">y</tspan></text>
+          <text id="_19" data-name=" " transform="translate(260.072)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="c-13" data-name="c" transform="translate(263.076)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">c</tspan></text>
+          <text id="aj" transform="translate(270.076)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">aj</tspan></text>
+          <text id="a_9" data-name="a)" transform="translate(279.083)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">a)</tspan></text>
+          <text id="_.-4" data-name="." transform="translate(289.086)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">.</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_41278" data-name="Grupo 41278" clip-path="url(#clip-path-17)">
+      <g id="Grupo_41277" data-name="Grupo 41277" transform="translate(90 -114)">
+        <g id="Grupo-11" data-name="Grupo">
+          <text id="Re-5" data-name="Re" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">Re</tspan></text>
+          <text id="s-16" data-name="s" transform="translate(13.999)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="i-17" data-name="i" transform="translate(20.003)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="s-17" data-name="s" transform="translate(23.006)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="t-9" data-name="t" transform="translate(29.01)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">t</tspan></text>
+          <text id="e-18" data-name="e" transform="translate(33.01)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="n-11" data-name="n" transform="translate(40.009)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">n</tspan></text>
+          <text id="c-14" data-name="c" transform="translate(47.009)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">c</tspan></text>
+          <text id="i-18" data-name="i" transform="translate(54.008)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="a_10" data-name="a " transform="translate(57.012)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">a </tspan></text>
+          <text id="de-7" data-name="de" transform="translate(66.019)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">de</tspan></text>
+          <text id="_20" data-name=" " transform="translate(80.018)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="l-12" data-name="l" transform="translate(83.022)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">l</tspan></text>
+          <text id="a_11" data-name="a " transform="translate(86.026)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">a </tspan></text>
+          <text id="pal" transform="translate(95.033)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">pal</tspan></text>
+          <text id="e-19" data-name="e" transform="translate(111.04)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="t-10" data-name="t" transform="translate(118.039)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">t</tspan></text>
+          <text id="a_12" data-name="a " transform="translate(122.039)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">a </tspan></text>
+          <text id="de-8" data-name="de" transform="translate(131.046)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">de</tspan></text>
+          <text id="l-13" data-name="l" transform="translate(145.045)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">l</tspan></text>
+          <text id="_21" data-name=" " transform="translate(148.049)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="de-9" data-name="de" transform="translate(151.052)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">de</tspan></text>
+          <text id="s-18" data-name="s" transform="translate(165.052)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="l-14" data-name="l" transform="translate(171.055)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">l</tspan></text>
+          <text id="i-19" data-name="i" transform="translate(174.059)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="z-2" data-name="z" transform="translate(177.062)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">z</tspan></text>
+          <text id="ado-2" data-name="ado" transform="translate(182.058)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">ado</tspan></text>
+          <text id="r-11" data-name="r" transform="translate(202.061)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">r</tspan></text>
+          <text id="_.-5" data-name="." transform="translate(206.06)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">.</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_41280" data-name="Grupo 41280" clip-path="url(#clip-path-18)">
+      <g id="Grupo_41279" data-name="Grupo 41279" transform="translate(90 -87)">
+        <g id="Grupo-12" data-name="Grupo">
+          <text id="Re-6" data-name="Re" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">Re</tspan></text>
+          <text id="s-19" data-name="s" transform="translate(13.999)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="i-20" data-name="i" transform="translate(20.003)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="s-20" data-name="s" transform="translate(23.006)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="t-11" data-name="t" transform="translate(29.01)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">t</tspan></text>
+          <text id="e-20" data-name="e" transform="translate(33.01)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="n-12" data-name="n" transform="translate(40.009)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">n</tspan></text>
+          <text id="c-15" data-name="c" transform="translate(47.009)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">c</tspan></text>
+          <text id="i-21" data-name="i" transform="translate(54.008)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="a_13" data-name="a " transform="translate(57.012)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">a </tspan></text>
+          <text id="a_14" data-name="a " transform="translate(66.019)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">a </tspan></text>
+          <text id="l-15" data-name="l" transform="translate(75.026)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">l</tspan></text>
+          <text id="a_15" data-name="a " transform="translate(78.03)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">a </tspan></text>
+          <text id="f-2" data-name="f" transform="translate(87.037)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">f</tspan></text>
+          <text id="i-22" data-name="i" transform="translate(91.037)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="j-2" data-name="j" transform="translate(94.04)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">j</tspan></text>
+          <text id="ac" transform="translate(97.044)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">ac</tspan></text>
+          <text id="i-23" data-name="i" transform="translate(110.047)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="ó-2" data-name="ó" transform="translate(113.051)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">ó</tspan></text>
+          <text id="n-13" data-name="n" transform="translate(120.05)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">n</tspan></text>
+          <text id="_22" data-name=" " transform="translate(127.05)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="de-10" data-name="de" transform="translate(130.054)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">de</tspan></text>
+          <text id="l-16" data-name="l" transform="translate(144.053)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">l</tspan></text>
+          <text id="_23" data-name=" " transform="translate(147.056)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="t-12" data-name="t" transform="translate(150.06)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">t</tspan></text>
+          <text id="o-7" data-name="o" transform="translate(154.06)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">o</tspan></text>
+          <text id="pe" transform="translate(161.059)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">pe</tspan></text>
+          <text id="_24" data-name=" " transform="translate(175.058)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="i-24" data-name="i" transform="translate(178.062)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="n-14" data-name="n" transform="translate(181.066)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">n</tspan></text>
+          <text id="f-3" data-name="f" transform="translate(188.065)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">f</tspan></text>
+          <text id="e-21" data-name="e" transform="translate(192.065)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="r-12" data-name="r" transform="translate(199.064)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">r</tspan></text>
+          <text id="i-25" data-name="i" transform="translate(203.064)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="o-8" data-name="o" transform="translate(206.068)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">o</tspan></text>
+          <text id="r-13" data-name="r" transform="translate(213.067)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">r</tspan></text>
+          <text id="_25" data-name=" " transform="translate(217.067)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="po" transform="translate(220.07)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">po</tspan></text>
+          <text id="r-14" data-name="r" transform="translate(234.07)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">r</tspan></text>
+          <text id="_26" data-name=" " transform="translate(238.069)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="s-21" data-name="s" transform="translate(241.073)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="e-22" data-name="e" transform="translate(247.076)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="par-3" data-name="par" transform="translate(254.076)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">par</tspan></text>
+          <text id="ac-2" data-name="ac" transform="translate(271.079)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">ac</tspan></text>
+          <text id="i-26" data-name="i" transform="translate(284.082)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="ó-3" data-name="ó" transform="translate(287.086)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">ó</tspan></text>
+          <text id="n-15" data-name="n" transform="translate(294.085)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">n</tspan></text>
+          <text id="_27" data-name=" " transform="translate(301.085)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="de-11" data-name="de" transform="translate(304.088)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">de</tspan></text>
+          <text id="_28" data-name=" " transform="translate(318.088)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="l-17" data-name="l" transform="translate(321.091)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">l</tspan></text>
+          <text id="a_16" data-name="a " transform="translate(324.095)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">a </tspan></text>
+          <text id="t-13" data-name="t" transform="translate(333.102)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">t</tspan></text>
+          <text id="i-27" data-name="i" transform="translate(337.102)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="r-15" data-name="r" transform="translate(340.105)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">r</tspan></text>
+          <text id="a." transform="translate(344.105)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">a.</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_41282" data-name="Grupo 41282" clip-path="url(#clip-path-19)">
+      <g id="Grupo_41281" data-name="Grupo 41281" transform="translate(90 -60)">
+        <g id="Grupo-13" data-name="Grupo">
+          <text id="Re-7" data-name="Re" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">Re</tspan></text>
+          <text id="s-22" data-name="s" transform="translate(13.999)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="i-28" data-name="i" transform="translate(20.003)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="s-23" data-name="s" transform="translate(23.006)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="t-14" data-name="t" transform="translate(29.01)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">t</tspan></text>
+          <text id="e-23" data-name="e" transform="translate(33.01)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="n-16" data-name="n" transform="translate(40.009)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">n</tspan></text>
+          <text id="c-16" data-name="c" transform="translate(47.009)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">c</tspan></text>
+          <text id="i-29" data-name="i" transform="translate(54.008)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="a_17" data-name="a " transform="translate(57.012)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">a </tspan></text>
+          <text id="de-12" data-name="de" transform="translate(66.019)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">de</tspan></text>
+          <text id="l-18" data-name="l" transform="translate(80.018)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">l</tspan></text>
+          <text id="_29" data-name=" " transform="translate(83.022)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="t-15" data-name="t" transform="translate(86.026)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">t</tspan></text>
+          <text id="o-9" data-name="o" transform="translate(90.025)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">o</tspan></text>
+          <text id="pe-2" data-name="pe" transform="translate(97.025)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">pe</tspan></text>
+          <text id="_30" data-name=" " transform="translate(111.024)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="s-24" data-name="s" transform="translate(114.028)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="u-5" data-name="u" transform="translate(120.031)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">u</tspan></text>
+          <text id="pe-3" data-name="pe" transform="translate(127.031)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">pe</tspan></text>
+          <text id="r-16" data-name="r" transform="translate(141.03)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">r</tspan></text>
+          <text id="i-30" data-name="i" transform="translate(145.03)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="o-10" data-name="o" transform="translate(148.033)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">o</tspan></text>
+          <text id="r-17" data-name="r" transform="translate(155.033)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">r</tspan></text>
+          <text id="_.-6" data-name="." transform="translate(159.032)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">.</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_41284" data-name="Grupo 41284" clip-path="url(#clip-path-20)">
+      <g id="Grupo_41283" data-name="Grupo 41283" transform="translate(90 -42)">
+        <g id="Grupo-14" data-name="Grupo">
+          <text id="Re-8" data-name="Re" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">Re</tspan></text>
+          <text id="s-25" data-name="s" transform="translate(13.999)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="i-31" data-name="i" transform="translate(20.003)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="s-26" data-name="s" transform="translate(23.006)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">s</tspan></text>
+          <text id="t-16" data-name="t" transform="translate(29.01)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">t</tspan></text>
+          <text id="e-24" data-name="e" transform="translate(33.01)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="n-17" data-name="n" transform="translate(40.009)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">n</tspan></text>
+          <text id="c-17" data-name="c" transform="translate(47.009)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">c</tspan></text>
+          <text id="i-32" data-name="i" transform="translate(54.008)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">i</tspan></text>
+          <text id="a_18" data-name="a " transform="translate(57.012)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">a </tspan></text>
+          <text id="de-13" data-name="de" transform="translate(66.019)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">de</tspan></text>
+          <text id="_31" data-name=" " transform="translate(80.018)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0"> </tspan></text>
+          <text id="l-19" data-name="l" transform="translate(83.022)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">l</tspan></text>
+          <text id="a_19" data-name="a " transform="translate(86.026)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">a </tspan></text>
+          <text id="c-18" data-name="c" transform="translate(95.033)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">c</tspan></text>
+          <text id="aj-2" data-name="aj" transform="translate(102.032)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">aj</tspan></text>
+          <text id="a_20" data-name="a " transform="translate(111.04)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">a </tspan></text>
+          <text id="r-18" data-name="r" transform="translate(120.047)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">r</tspan></text>
+          <text id="e-25" data-name="e" transform="translate(124.046)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="t-17" data-name="t" transform="translate(131.046)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">t</tspan></text>
+          <text id="e-26" data-name="e" transform="translate(135.046)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="n-18" data-name="n" transform="translate(142.045)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">n</tspan></text>
+          <text id="e-27" data-name="e" transform="translate(149.045)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">e</tspan></text>
+          <text id="do" transform="translate(156.044)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">do</tspan></text>
+          <text id="r-19" data-name="r" transform="translate(170.044)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">r</tspan></text>
+          <text id="a.-2" data-name="a." transform="translate(174.043)" font-size="12" font-family="Helvetica" letter-spacing="-0.04em"><tspan x="0" y="0">a.</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_41286" data-name="Grupo 41286" clip-path="url(#clip-path-21)">
+      <g id="Grupo_41285" data-name="Grupo 41285" transform="translate(90 -23)">
+        <g id="Grupo-15" data-name="Grupo">
+          <text id="Mé" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">Mé</tspan></text>
+          <text id="tod" transform="translate(18.005)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">tod</tspan></text>
+          <text id="o_d" data-name="o d" transform="translate(36.018)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">o d</tspan></text>
+          <text id="e-28" data-name="e" transform="translate(53.023)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">e</tspan></text>
+          <text id="_e" data-name=" e" transform="translate(60.028)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0" xml:space="preserve"> e</tspan></text>
+          <text id="n-19" data-name="n" transform="translate(70.028)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">n</tspan></text>
+          <text id="s-27" data-name="s" transform="translate(77.033)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">s</tspan></text>
+          <text id="a-5" data-name="a" transform="translate(83.029)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">a</tspan></text>
+          <text id="yo_p" data-name="yo p" transform="translate(89.026)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">yo p</tspan></text>
+          <text id="a-6" data-name="a" transform="translate(112.027)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">a</tspan></text>
+          <text id="ra" transform="translate(118.024)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">ra</tspan></text>
+          <text id="_d" data-name=" d" transform="translate(128.024)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0" xml:space="preserve"> d</tspan></text>
+          <text id="e-29" data-name="e" transform="translate(138.025)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">e</tspan></text>
+          <text id="te" transform="translate(145.03)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">te</tspan></text>
+          <text id="rm" transform="translate(156.038)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">rm</tspan></text>
+          <text id="in-2" data-name="in" transform="translate(170.047)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">in</tspan></text>
+          <text id="a-7" data-name="a" transform="translate(180.048)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">a</tspan></text>
+          <text id="r_la" data-name="r la" transform="translate(186.044)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">r la</tspan></text>
+          <text id="_s" data-name=" s" transform="translate(202.038)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0" xml:space="preserve"> s</tspan></text>
+          <text id="olid" transform="translate(211.031)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">olid</tspan></text>
+          <text id="e-30" data-name="e" transform="translate(231.032)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">e</tspan></text>
+          <text id="z-3" data-name="z" transform="translate(238.037)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">z</tspan></text>
+          <text id="_d-2" data-name=" d" transform="translate(243.037)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0" xml:space="preserve"> d</tspan></text>
+          <text id="e-31" data-name="e" transform="translate(253.038)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">e</tspan></text>
+          <text id="l_c" data-name="l c" transform="translate(260.042)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">l c</tspan></text>
+          <text id="olor_a" data-name="olor a" transform="translate(273.04)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">olor a</tspan></text>
+          <text id="l_la" data-name="l la" transform="translate(303.042)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">l la</tspan></text>
+          <text id="va" transform="translate(318.028)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">va</tspan></text>
+          <text id="d-5" data-name="d" transform="translate(330.02)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">d</tspan></text>
+          <text id="o_" data-name="o " transform="translate(337.025)" font-size="12" font-family="Helvetica" letter-spacing="0em"><tspan x="0" y="0">o </tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_41288" data-name="Grupo 41288" clip-path="url(#clip-path-21)">
+      <g id="Grupo_41287" data-name="Grupo 41287" transform="translate(90 -6)">
+        <g id="Grupo-16" data-name="Grupo">
+          <text id="en_" data-name="en " font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0">en </tspan></text>
+          <text id="seco" transform="translate(17.003)" font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0">seco</tspan></text>
+          <text id="_32" data-name=" " transform="translate(44.005)" font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0"> </tspan></text>
+          <text id="usa" transform="translate(47.009)" font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0">usa</tspan></text>
+          <text id="nd" transform="translate(66.016)" font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0">nd</tspan></text>
+          <text id="o-11" data-name="o" transform="translate(80.015)" font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0">o</tspan></text>
+          <text id="_33" data-name=" " transform="translate(87.014)" font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0"> </tspan></text>
+          <text id="so" transform="translate(90.018)" font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0">so</tspan></text>
+          <text id="l-20" data-name="l" transform="translate(103.021)" font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0">l</tspan></text>
+          <text id="v" transform="translate(106.025)" font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0">v</tspan></text>
+          <text id="ent" transform="translate(112.028)" font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0">ent</tspan></text>
+          <text id="e_4" data-name="e " transform="translate(130.027)" font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0">e </tspan></text>
+          <text id="p" transform="translate(140.03)" font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0">p</tspan></text>
+          <text id="er-3" data-name="er" transform="translate(147.03)" font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0">er</tspan></text>
+          <text id="cl" transform="translate(158.029)" font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0">cl</tspan></text>
+          <text id="o-12" data-name="o" transform="translate(168.032)" font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0">o</tspan></text>
+          <text id="r-20" data-name="r" transform="translate(175.032)" font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0">r</tspan></text>
+          <text id="o-13" data-name="o" transform="translate(179.032)" font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0">o</tspan></text>
+          <text id="et" transform="translate(186.031)" font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0">et</tspan></text>
+          <text id="i-33" data-name="i" transform="translate(197.03)" font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0">i</tspan></text>
+          <text id="l-21" data-name="l" transform="translate(200.034)" font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0">l</tspan></text>
+          <text id="eno" transform="translate(203.038)" font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0">eno</tspan></text>
+          <text id="_.-7" data-name="." transform="translate(224.036)" font-size="12" font-family="Helvetica" letter-spacing="0.031em"><tspan x="0" y="0">.</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_41290" data-name="Grupo 41290" clip-path="url(#clip-path-23)">
+      <g id="Grupo_41289" data-name="Grupo 41289" transform="translate(519 -15)">
+        <g id="Grupo-17" data-name="Grupo">
+          <text id="NT-3" data-name="NT" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">NT</tspan></text>
+          <text id="C-19" data-name="C" transform="translate(15)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">C</tspan></text>
+          <text id="_4-3" data-name=" 4" transform="translate(24)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0" xml:space="preserve"> 4</tspan></text>
+          <text id="_1-5" data-name="1" transform="translate(33.996)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">1</tspan></text>
+          <text id="_6-3" data-name="6" transform="translate(40.992)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">6</tspan></text>
+          <text id="_0-5" data-name="0" transform="translate(47.988)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">0</tspan></text>
+          <text id="_34" data-name="/" transform="translate(54.984)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">/</tspan></text>
+          <text id="I-34" data-name="I" transform="translate(61.98)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">I</tspan></text>
+          <text id="S-28" data-name="S" transform="translate(65.976)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">S</tspan></text>
+          <text id="O-14" data-name="O" transform="translate(72.972)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">O</tspan></text>
+          <text id="_1-6" data-name=" 1" transform="translate(82.968)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0" xml:space="preserve"> 1</tspan></text>
+          <text id="_0-6" data-name="0" transform="translate(92.964)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">0</tspan></text>
+          <text id="_5-2" data-name="5" transform="translate(99.96)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">5</tspan></text>
+          <text id="D-6" data-name="D" transform="translate(106.956)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">D</tspan></text>
+          <text id="_0-7" data-name="0" transform="translate(115.956)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">0</tspan></text>
+          <text id="_1-7" data-name="1" transform="translate(122.952)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">1</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_41292" data-name="Grupo 41292" clip-path="url(#clip-path-24)">
+      <g id="Grupo_41291" data-name="Grupo 41291" transform="translate(183 -299)">
+        <g id="Grupo-18" data-name="Grupo">
+          <text id="PRU" fill="#fff" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.026em"><tspan x="0" y="0">PRU</tspan></text>
+          <text id="EBAS_" data-name="EBAS " transform="translate(24.001)" fill="#fff" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.026em"><tspan x="0" y="0">EBAS </tspan></text>
+          <text id="DE_" data-name="DE " transform="translate(58.999)" fill="#fff" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.026em"><tspan x="0" y="0">DE </tspan></text>
+          <text id="C-20" data-name="C" transform="translate(77.996)" fill="#fff" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.026em"><tspan x="0" y="0">C</tspan></text>
+          <text id="ALI" transform="translate(86.993)" fill="#fff" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.026em"><tspan x="0" y="0">ALI</tspan></text>
+          <text id="DAD_" data-name="DAD " transform="translate(105.99)" fill="#fff" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.026em"><tspan x="0" y="0">DAD </tspan></text>
+          <text id="EN_2" data-name="EN " transform="translate(135.976)" fill="#fff" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.026em"><tspan x="0" y="0">EN </tspan></text>
+          <text id="LABORAT" transform="translate(155.981)" fill="#fff" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.026em"><tspan x="0" y="0">LABORAT</tspan></text>
+          <text id="ORI" transform="translate(211.972)" fill="#fff" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.026em"><tspan x="0" y="0">ORI</tspan></text>
+          <text id="OS_" data-name="OS " transform="translate(233.981)" fill="#fff" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.026em"><tspan x="0" y="0">OS </tspan></text>
+          <text id="PARA_" data-name="PARA " transform="translate(254.982)" fill="#fff" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.026em"><tspan x="0" y="0">PARA </tspan></text>
+          <text id="I-35" data-name="I" transform="translate(291.972)" fill="#fff" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.026em"><tspan x="0" y="0">I</tspan></text>
+          <text id="NSU" transform="translate(295.976)" fill="#fff" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.026em"><tspan x="0" y="0">NSU</tspan></text>
+          <text id="MOS" transform="translate(321.982)" fill="#fff" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.026em"><tspan x="0" y="0">MOS</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_41294" data-name="Grupo 41294" clip-path="url(#clip-path-25)">
+      <g id="Grupo_41293" data-name="Grupo 41293" transform="translate(47 -87) rotate(-90)">
+        <g id="Grupo-19" data-name="Grupo">
+          <text id="CR" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.016em"><tspan x="0" y="0">CR</tspan></text>
+          <text id="E-32" data-name="E" transform="translate(17.004)" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.016em"><tspan x="0" y="0">E</tspan></text>
+          <text id="M-5" data-name="M" transform="translate(24)" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.016em"><tspan x="0" y="0">M</tspan></text>
+          <text id="A-8" data-name="A" transform="translate(36)" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.016em"><tspan x="0" y="0">A</tspan></text>
+          <text id="L-22" data-name="L" transform="translate(45)" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.016em"><tspan x="0" y="0">L</tspan></text>
+          <text id="L-23" data-name="L" transform="translate(51)" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.016em"><tspan x="0" y="0">L</tspan></text>
+          <text id="E-33" data-name="E" transform="translate(57)" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.016em"><tspan x="0" y="0">E</tspan></text>
+          <text id="R-21" data-name="R" transform="translate(63.996)" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.016em"><tspan x="0" y="0">R</tspan></text>
+          <text id="A-9" data-name="A" transform="translate(72)" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.016em"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_41296" data-name="Grupo 41296" clip-path="url(#clip-path-26)">
+      <g id="Grupo_41295" data-name="Grupo 41295" transform="translate(528 -123)">
+        <g id="Grupo-20" data-name="Grupo">
+          <text id="NT-4" data-name="NT" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">NT</tspan></text>
+          <text id="C-21" data-name="C" transform="translate(15)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">C</tspan></text>
+          <text id="_2-8" data-name=" 2" transform="translate(24)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0" xml:space="preserve"> 2</tspan></text>
+          <text id="_5-3" data-name="5" transform="translate(33.996)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">5</tspan></text>
+          <text id="_1-8" data-name="1" transform="translate(40.992)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">1</tspan></text>
+          <text id="_2-9" data-name="2" transform="translate(47.988)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">2</tspan></text>
+          <text id="_35" data-name=" /" transform="translate(54.984)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0" xml:space="preserve"> /</tspan></text>
+          <text id="_B" data-name=" B" transform="translate(64.98)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0" xml:space="preserve"> B</tspan></text>
+          <text id="S-29" data-name="S" transform="translate(74.976)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">S</tspan></text>
+          <text id="_3-3" data-name=" 3" transform="translate(81.972)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0" xml:space="preserve"> 3</tspan></text>
+          <text id="_0-8" data-name="0" transform="translate(91.968)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">0</tspan></text>
+          <text id="_8-4" data-name="8" transform="translate(98.964)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">8</tspan></text>
+          <text id="_4-4" data-name="4" transform="translate(105.96)" font-size="12" font-family="Helvetica" letter-spacing="-0.015em"><tspan x="0" y="0">4</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_41297" data-name="Grupo 41297" clip-path="url(#clip-path)">
+      <path id="Trazado_108895" data-name="Trazado 108895" d="M0-321H0Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41298" data-name="Grupo 41298" clip-path="url(#clip-path)">
+      <path id="Trazado_108897" data-name="Trazado 108897" d="M1-321H717v1H1Z" fill="#fff"/>
+    </g>
+    <g id="Grupo_41299" data-name="Grupo 41299" clip-path="url(#clip-path)">
+      <path id="Trazado_108899" data-name="Trazado 108899" d="M716-321h0Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41300" data-name="Grupo 41300" clip-path="url(#clip-path)">
+      <path id="Trazado_108901" data-name="Trazado 108901" d="M87-321h0Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41301" data-name="Grupo 41301" clip-path="url(#clip-path)">
+      <path id="Trazado_108903" data-name="Trazado 108903" d="M452-321h0Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41302" data-name="Grupo 41302" clip-path="url(#clip-path)">
+      <path id="Trazado_108905" data-name="Trazado 108905" d="M1-285H717v1H1Z" fill="#fff"/>
+    </g>
+    <g id="Grupo_41303" data-name="Grupo 41303" clip-path="url(#clip-path)">
+      <path id="Trazado_108907" data-name="Trazado 108907" d="M0-321H1v68H0Z" fill="#fff"/>
+    </g>
+    <g id="Grupo_41304" data-name="Grupo 41304" clip-path="url(#clip-path)">
+      <path id="Trazado_108909" data-name="Trazado 108909" d="M1-253H87v1H1Z" fill="#fff"/>
+    </g>
+    <g id="Grupo_41305" data-name="Grupo 41305" clip-path="url(#clip-path)">
+      <path id="Trazado_108911" data-name="Trazado 108911" d="M87-284h1v31H87Z" fill="#fff"/>
+    </g>
+    <g id="Grupo_41306" data-name="Grupo 41306" clip-path="url(#clip-path)">
+      <path id="Trazado_108913" data-name="Trazado 108913" d="M88-253H452v1H88Z" fill="#fff"/>
+    </g>
+    <g id="Grupo_41307" data-name="Grupo 41307" clip-path="url(#clip-path)">
+      <path id="Trazado_108915" data-name="Trazado 108915" d="M452-284h1v31h-1Z" fill="#fff"/>
+    </g>
+    <g id="Grupo_41308" data-name="Grupo 41308" clip-path="url(#clip-path)">
+      <path id="Trazado_108917" data-name="Trazado 108917" d="M453-253H716v1H453Z" fill="#fff"/>
+    </g>
+    <g id="Grupo_41309" data-name="Grupo 41309" clip-path="url(#clip-path)">
+      <path id="Trazado_108919" data-name="Trazado 108919" d="M716-320h1v67h-1Z" fill="#fff"/>
+    </g>
+    <g id="Grupo_41310" data-name="Grupo 41310" clip-path="url(#clip-path)">
+      <path id="Trazado_108921" data-name="Trazado 108921" d="M88-235H717v1H88Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_41311" data-name="Grupo 41311" clip-path="url(#clip-path)">
+      <path id="Trazado_108923" data-name="Trazado 108923" d="M88-217H717v1H88Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_41312" data-name="Grupo 41312" clip-path="url(#clip-path)">
+      <path id="Trazado_108925" data-name="Trazado 108925" d="M88-199H453v1H88Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_41313" data-name="Grupo 41313" clip-path="url(#clip-path)">
+      <path id="Trazado_108927" data-name="Trazado 108927" d="M88-181H453v1H88Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_41314" data-name="Grupo 41314" clip-path="url(#clip-path)">
+      <path id="Trazado_108929" data-name="Trazado 108929" d="M88-163H453v1H88Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_41315" data-name="Grupo 41315" clip-path="url(#clip-path)">
+      <path id="Trazado_108931" data-name="Trazado 108931" d="M88-145H453v1H88Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_41316" data-name="Grupo 41316" clip-path="url(#clip-path)">
+      <path id="Trazado_108933" data-name="Trazado 108933" d="M88-127H453v1H88Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_41317" data-name="Grupo 41317" clip-path="url(#clip-path)">
+      <path id="Trazado_108935" data-name="Trazado 108935" d="M88-109H453v1H88Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_41318" data-name="Grupo 41318" clip-path="url(#clip-path)">
+      <path id="Trazado_108937" data-name="Trazado 108937" d="M88-73H453v1H88Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_41319" data-name="Grupo 41319" clip-path="url(#clip-path)">
+      <path id="Trazado_108939" data-name="Trazado 108939" d="M88-55H453v1H88Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_41320" data-name="Grupo 41320" clip-path="url(#clip-path)">
+      <path id="Trazado_108941" data-name="Trazado 108941" d="M88-37H717v1H88Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_41321" data-name="Grupo 41321" clip-path="url(#clip-path)">
+      <path id="Trazado_108943" data-name="Trazado 108943" d="M0-253H1V0H0Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_41322" data-name="Grupo 41322" clip-path="url(#clip-path)">
+      <path id="Trazado_108945" data-name="Trazado 108945" d="M87-253h1V0H87Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_41323" data-name="Grupo 41323" clip-path="url(#clip-path)">
+      <path id="Trazado_108947" data-name="Trazado 108947" d="M452-253h1V0h-1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_41324" data-name="Grupo 41324" clip-path="url(#clip-path)">
+      <path id="Trazado_108949" data-name="Trazado 108949" d="M1-1H717V0H1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_41325" data-name="Grupo 41325" clip-path="url(#clip-path)">
+      <path id="Trazado_108951" data-name="Trazado 108951" d="M716-253h1V0h-1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_41326" data-name="Grupo 41326" clip-path="url(#clip-path)">
+      <path id="Trazado_108953" data-name="Trazado 108953" d="M0,0H1V1H0Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41327" data-name="Grupo 41327" clip-path="url(#clip-path)">
+      <path id="Trazado_108955" data-name="Trazado 108955" d="M87,0h1V1H87Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41328" data-name="Grupo 41328" clip-path="url(#clip-path)">
+      <path id="Trazado_108957" data-name="Trazado 108957" d="M452,0h1V1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41329" data-name="Grupo 41329" clip-path="url(#clip-path)">
+      <path id="Trazado_108959" data-name="Trazado 108959" d="M716,0h1V1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41330" data-name="Grupo 41330" clip-path="url(#clip-path)">
+      <path id="Trazado_108961" data-name="Trazado 108961" d="M717-321h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41331" data-name="Grupo 41331" clip-path="url(#clip-path)">
+      <path id="Trazado_108963" data-name="Trazado 108963" d="M717-285h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41332" data-name="Grupo 41332" clip-path="url(#clip-path)">
+      <path id="Trazado_108965" data-name="Trazado 108965" d="M717-253h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41333" data-name="Grupo 41333" clip-path="url(#clip-path)">
+      <path id="Trazado_108967" data-name="Trazado 108967" d="M717-235h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41334" data-name="Grupo 41334" clip-path="url(#clip-path)">
+      <path id="Trazado_108969" data-name="Trazado 108969" d="M717-217h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41335" data-name="Grupo 41335" clip-path="url(#clip-path)">
+      <path id="Trazado_108971" data-name="Trazado 108971" d="M717-199h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41336" data-name="Grupo 41336" clip-path="url(#clip-path)">
+      <path id="Trazado_108973" data-name="Trazado 108973" d="M717-181h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41337" data-name="Grupo 41337" clip-path="url(#clip-path)">
+      <path id="Trazado_108975" data-name="Trazado 108975" d="M717-163h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41338" data-name="Grupo 41338" clip-path="url(#clip-path)">
+      <path id="Trazado_108977" data-name="Trazado 108977" d="M717-145h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41339" data-name="Grupo 41339" clip-path="url(#clip-path)">
+      <path id="Trazado_108979" data-name="Trazado 108979" d="M717-127h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41340" data-name="Grupo 41340" clip-path="url(#clip-path)">
+      <path id="Trazado_108981" data-name="Trazado 108981" d="M717-109h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41341" data-name="Grupo 41341" clip-path="url(#clip-path)">
+      <path id="Trazado_108983" data-name="Trazado 108983" d="M717-73h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41342" data-name="Grupo 41342" clip-path="url(#clip-path)">
+      <path id="Trazado_108985" data-name="Trazado 108985" d="M717-55h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41343" data-name="Grupo 41343" clip-path="url(#clip-path)">
+      <path id="Trazado_108987" data-name="Trazado 108987" d="M717-37h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_41344" data-name="Grupo 41344" clip-path="url(#clip-path)">
+      <path id="Trazado_108989" data-name="Trazado 108989" d="M717-1h1V0h-1Z" fill="#d3d3d3"/>
+    </g>
+  </g>
+</svg>

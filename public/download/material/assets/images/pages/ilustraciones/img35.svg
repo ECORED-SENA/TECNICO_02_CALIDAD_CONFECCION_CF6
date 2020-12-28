@@ -1,0 +1,777 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="995" height="189" viewBox="0 0 995 189">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Trazado_110326" data-name="Trazado 110326" d="M0,0H995V-189H0Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Trazado_110330" data-name="Trazado 110330" d="M1,0H995V-188H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <path id="Trazado_110335" data-name="Trazado 110335" d="M1-131H995v-15H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-11">
+      <path id="Trazado_110340" data-name="Trazado 110340" d="M1-115H995v-15H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-16">
+      <path id="Trazado_110345" data-name="Trazado 110345" d="M1-98H995v-16H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-18">
+      <path id="Trazado_110347" data-name="Trazado 110347" d="M1-81H995V-97H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-19">
+      <path id="Trazado_110348" data-name="Trazado 110348" d="M676-81h43v-33H676Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-20">
+      <path id="Trazado_110349" data-name="Trazado 110349" d="M720-81h49v-33H720Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-21">
+      <path id="Trazado_110350" data-name="Trazado 110350" d="M770-81h49v-33H770Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-22">
+      <path id="Trazado_110351" data-name="Trazado 110351" d="M820-81h45v-33H820Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-23">
+      <path id="Trazado_110352" data-name="Trazado 110352" d="M866-81h42v-33H866Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-24">
+      <path id="Trazado_110353" data-name="Trazado 110353" d="M527-115H627v-31H527Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-25">
+      <path id="Trazado_110354" data-name="Trazado 110354" d="M628-115h91v-31H628Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-26">
+      <path id="Trazado_110355" data-name="Trazado 110355" d="M720-115h99v-31H720Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-27">
+      <path id="Trazado_110356" data-name="Trazado 110356" d="M820-115h88v-31H820Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-29">
+      <path id="Trazado_110358" data-name="Trazado 110358" d="M430-81h50v-33H430Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-30">
+      <path id="Trazado_110359" data-name="Trazado 110359" d="M481-81h45v-33H481Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-31">
+      <path id="Trazado_110360" data-name="Trazado 110360" d="M527-81h48v-33H527Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-32">
+      <path id="Trazado_110361" data-name="Trazado 110361" d="M628-81h47v-33H628Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-33">
+      <path id="Trazado_110362" data-name="Trazado 110362" d="M1-163H994v-25H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-34">
+      <path id="Trazado_110363" data-name="Trazado 110363" d="M1-147H150v-15H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-35">
+      <path id="Trazado_110364" data-name="Trazado 110364" d="M151-147H318v-15H151Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-36">
+      <path id="Trazado_110365" data-name="Trazado 110365" d="M319-147H526v-15H319Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-37">
+      <path id="Trazado_110366" data-name="Trazado 110366" d="M527-147H908v-15H527Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-38">
+      <path id="Trazado_110367" data-name="Trazado 110367" d="M909-81h85v-81H909Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-39">
+      <path id="Trazado_110368" data-name="Trazado 110368" d="M1-81H45v-65H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-40">
+      <path id="Trazado_110369" data-name="Trazado 110369" d="M104-81h46v-65H104Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-41">
+      <path id="Trazado_110370" data-name="Trazado 110370" d="M247-115h71v-31H247Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-42">
+      <path id="Trazado_110371" data-name="Trazado 110371" d="M430-115h96v-31H430Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_42520" data-name="Grupo 42520" transform="translate(0 189)">
+    <g id="Grupo_42346" data-name="Grupo 42346" clip-path="url(#clip-path)">
+      <path id="Trazado_110325" data-name="Trazado 110325" d="M0-189H995v1H0Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42347" data-name="Grupo 42347" clip-path="url(#clip-path)">
+      <path id="Trazado_110327" data-name="Trazado 110327" d="M0-189H1V0H0Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42348" data-name="Grupo 42348" clip-path="url(#clip-path-3)">
+      <path id="Trazado_110329" data-name="Trazado 110329" d="M0-189H995v27H0Z" fill="#14579e"/>
+    </g>
+    <g id="Grupo_42349" data-name="Grupo 42349" clip-path="url(#clip-path-3)">
+      <path id="Trazado_110331" data-name="Trazado 110331" d="M150-163H995v17H150Z" fill="#d9e0f1"/>
+    </g>
+    <g id="Grupo_42350" data-name="Grupo 42350" clip-path="url(#clip-path-3)">
+      <path id="Trazado_110333" data-name="Trazado 110333" d="M0-147H995v67H0Z" fill="#d9e0f1"/>
+    </g>
+    <g id="Grupo_42352" data-name="Grupo 42352" clip-path="url(#clip-path-6)">
+      <g id="Grupo_42351" data-name="Grupo 42351" transform="translate(64 -136)">
+        <g id="Grupo">
+          <text id="OR" font-size="6" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.055em"><tspan x="0" y="0">OR</tspan></text>
+          <text id="D" transform="translate(8.998)" font-size="6" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.055em"><tspan x="0" y="0">D</tspan></text>
+          <text id="E" transform="translate(12.995)" font-size="6" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.055em"><tspan x="0" y="0">E</tspan></text>
+          <text id="N" transform="translate(16.993)" font-size="6" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.055em"><tspan x="0" y="0">N</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42354" data-name="Grupo 42354" clip-path="url(#clip-path-6)">
+      <g id="Grupo_42353" data-name="Grupo 42353" transform="translate(170 -137)">
+        <g id="Grupo-2" data-name="Grupo">
+          <text id="_" data-name="# " font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.1em"><tspan x="0" y="0"># </tspan></text>
+          <text id="DE" transform="translate(4)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.1em"><tspan x="0" y="0">DE</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42356" data-name="Grupo 42356" clip-path="url(#clip-path-6)">
+      <g id="Grupo_42355" data-name="Grupo 42355" transform="translate(213 -137)">
+        <g id="Grupo-3" data-name="Grupo">
+          <text id="ANCH" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">ANCH</tspan></text>
+          <text id="O" transform="translate(16)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42358" data-name="Grupo 42358" clip-path="url(#clip-path-6)">
+      <g id="Grupo_42357" data-name="Grupo 42357" transform="translate(335 -137)">
+        <g id="Grupo-4" data-name="Grupo">
+          <text id="ANCH-2" data-name="ANCH" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">ANCH</tspan></text>
+          <text id="O-2" data-name="O" transform="translate(16)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">O</tspan></text>
+          <text id="_2" data-name=" " transform="translate(20)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0"> </tspan></text>
+          <text id="_3" data-name=" " transform="translate(21)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0"> </tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42360" data-name="Grupo 42360" clip-path="url(#clip-path-6)">
+      <g id="Grupo_42359" data-name="Grupo 42359" transform="translate(395 -137)">
+        <g id="Grupo-5" data-name="Grupo">
+          <text id="_4" data-name="# " font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.1em"><tspan x="0" y="0"># </tspan></text>
+          <text id="DE-2" data-name="DE" transform="translate(4)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.1em"><tspan x="0" y="0">DE</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42362" data-name="Grupo 42362" clip-path="url(#clip-path-11)">
+      <g id="Grupo_42361" data-name="Grupo 42361" transform="translate(70 -120)">
+        <text id="DE-3" data-name="DE" font-size="6" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.055em"><tspan x="0" y="0">DE</tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_42364" data-name="Grupo 42364" clip-path="url(#clip-path-11)">
+      <g id="Grupo_42363" data-name="Grupo 42363" transform="translate(166 -121)">
+        <g id="Grupo-6" data-name="Grupo">
+          <text id="PIE" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.011em"><tspan x="0" y="0">PIE</tspan></text>
+          <text id="Z" transform="translate(8)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.011em"><tspan x="0" y="0">Z</tspan></text>
+          <text id="A" transform="translate(11)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.011em"><tspan x="0" y="0">A</tspan></text>
+          <text id="S" transform="translate(15)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.011em"><tspan x="0" y="0">S</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42366" data-name="Grupo 42366" clip-path="url(#clip-path-11)">
+      <g id="Grupo_42365" data-name="Grupo 42365" transform="translate(214 -121)">
+        <g id="Grupo-7" data-name="Grupo">
+          <text id="TR" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.067em"><tspan x="0" y="0">TR</tspan></text>
+          <text id="A-2" data-name="A" transform="translate(7)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.067em"><tspan x="0" y="0">A</tspan></text>
+          <text id="ZO" transform="translate(11)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.067em"><tspan x="0" y="0">ZO</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42368" data-name="Grupo 42368" clip-path="url(#clip-path-11)">
+      <g id="Grupo_42367" data-name="Grupo 42367" transform="translate(339 -121)">
+        <g id="Grupo-8" data-name="Grupo">
+          <text id="ÚT" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">ÚT</tspan></text>
+          <text id="I" transform="translate(7)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">I</tspan></text>
+          <text id="L" transform="translate(9)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">L</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42370" data-name="Grupo 42370" clip-path="url(#clip-path-11)">
+      <g id="Grupo_42369" data-name="Grupo 42369" transform="translate(392 -121)">
+        <g id="Grupo-9" data-name="Grupo">
+          <text id="CAP" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">CAP</tspan></text>
+          <text id="AS" transform="translate(11)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">AS</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42372" data-name="Grupo 42372" clip-path="url(#clip-path-16)">
+      <g id="Grupo_42371" data-name="Grupo 42371" transform="translate(64 -104)">
+        <g id="Grupo-10" data-name="Grupo">
+          <text id="CO" font-size="6" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.055em"><tspan x="0" y="0">CO</tspan></text>
+          <text id="RT" transform="translate(9.002)" font-size="6" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.055em"><tspan x="0" y="0">RT</tspan></text>
+          <text id="E-2" data-name="E" transform="translate(17.003)" font-size="6" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.055em"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42374" data-name="Grupo 42374" clip-path="url(#clip-path-16)">
+      <g id="Grupo_42373" data-name="Grupo 42373" transform="translate(597 -104)">
+        <text id="NO" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">NO</tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_42376" data-name="Grupo 42376" clip-path="url(#clip-path-18)">
+      <g id="Grupo_42375" data-name="Grupo 42375" transform="translate(590 -87)">
+        <g id="Grupo-11" data-name="Grupo">
+          <text id="CUMP" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">CUMP</tspan></text>
+          <text id="L-2" data-name="L" transform="translate(16)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">L</tspan></text>
+          <text id="E-3" data-name="E" transform="translate(19)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42378" data-name="Grupo 42378" clip-path="url(#clip-path-19)">
+      <g id="Grupo_42377" data-name="Grupo 42377" transform="translate(682 -96)">
+        <g id="Grupo-12" data-name="Grupo">
+          <text id="NO-2" data-name="NO" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">NO</tspan></text>
+          <text id="_5" data-name=" " transform="translate(8)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0"> </tspan></text>
+          <text id="CUMP-2" data-name="CUMP" transform="translate(9)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">CUMP</tspan></text>
+          <text id="L-3" data-name="L" transform="translate(25)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">L</tspan></text>
+          <text id="E-4" data-name="E" transform="translate(28)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42380" data-name="Grupo 42380" clip-path="url(#clip-path-20)">
+      <g id="Grupo_42379" data-name="Grupo 42379" transform="translate(733 -96)">
+        <g id="Grupo-13" data-name="Grupo">
+          <text id="CUMP-3" data-name="CUMP" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">CUMP</tspan></text>
+          <text id="L-4" data-name="L" transform="translate(16)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">L</tspan></text>
+          <text id="E-5" data-name="E" transform="translate(19)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42382" data-name="Grupo 42382" clip-path="url(#clip-path-21)">
+      <g id="Grupo_42381" data-name="Grupo 42381" transform="translate(779 -96)">
+        <g id="Grupo-14" data-name="Grupo">
+          <text id="NO-3" data-name="NO" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">NO</tspan></text>
+          <text id="_6" data-name=" " transform="translate(8)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0"> </tspan></text>
+          <text id="CUMP-4" data-name="CUMP" transform="translate(9)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">CUMP</tspan></text>
+          <text id="L-5" data-name="L" transform="translate(25)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">L</tspan></text>
+          <text id="E-6" data-name="E" transform="translate(28)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42384" data-name="Grupo 42384" clip-path="url(#clip-path-22)">
+      <g id="Grupo_42383" data-name="Grupo 42383" transform="translate(831 -96)">
+        <g id="Grupo-15" data-name="Grupo">
+          <text id="CUMP-5" data-name="CUMP" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">CUMP</tspan></text>
+          <text id="L-6" data-name="L" transform="translate(16)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">L</tspan></text>
+          <text id="E-7" data-name="E" transform="translate(19)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42386" data-name="Grupo 42386" clip-path="url(#clip-path-23)">
+      <g id="Grupo_42385" data-name="Grupo 42385" transform="translate(871 -96)">
+        <g id="Grupo-16" data-name="Grupo">
+          <text id="NO-4" data-name="NO" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">NO</tspan></text>
+          <text id="_7" data-name=" " transform="translate(8)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0"> </tspan></text>
+          <text id="CUMP-6" data-name="CUMP" transform="translate(9)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">CUMP</tspan></text>
+          <text id="L-7" data-name="L" transform="translate(25)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">L</tspan></text>
+          <text id="E-8" data-name="E" transform="translate(28)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42388" data-name="Grupo 42388" clip-path="url(#clip-path-24)">
+      <g id="Grupo_42387" data-name="Grupo 42387" transform="translate(549 -129)">
+        <g id="Grupo-17" data-name="Grupo">
+          <text id="BO" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.067em"><tspan x="0" y="0">BO</tspan></text>
+          <text id="R" transform="translate(7)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.067em"><tspan x="0" y="0">R</tspan></text>
+          <text id="D-2" data-name="D" transform="translate(11)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.067em"><tspan x="0" y="0">D</tspan></text>
+          <text id="ES" transform="translate(15)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.067em"><tspan x="0" y="0">ES</tspan></text>
+          <text id="_Y" data-name=" Y" transform="translate(21)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.067em"><tspan x="0" y="0" xml:space="preserve"> Y</tspan></text>
+          <text id="_EX" data-name=" EX" transform="translate(26)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.067em"><tspan x="0" y="0" xml:space="preserve"> EX</tspan></text>
+          <text id="TR-2" data-name="TR" transform="translate(34)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.067em"><tspan x="0" y="0">TR</tspan></text>
+          <text id="EM" transform="translate(41)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.067em"><tspan x="0" y="0">EM</tspan></text>
+          <text id="O-3" data-name="O" transform="translate(49)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.067em"><tspan x="0" y="0">O</tspan></text>
+          <text id="S-2" data-name="S" transform="translate(53)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.067em"><tspan x="0" y="0">S</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42390" data-name="Grupo 42390" clip-path="url(#clip-path-25)">
+      <g id="Grupo_42389" data-name="Grupo 42389" transform="translate(659 -129)">
+        <g id="Grupo-18" data-name="Grupo">
+          <text id="SIME" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.044em"><tspan x="0" y="0">SIME</tspan></text>
+          <text id="T" transform="translate(13)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.044em"><tspan x="0" y="0">T</tspan></text>
+          <text id="RÍAS" transform="translate(16)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.044em"><tspan x="0" y="0">RÍAS</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42392" data-name="Grupo 42392" clip-path="url(#clip-path-26)">
+      <g id="Grupo_42391" data-name="Grupo 42391" transform="translate(757 -129)">
+        <g id="Grupo-19" data-name="Grupo">
+          <text id="PIQU" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.011em"><tspan x="0" y="0">PIQU</tspan></text>
+          <text id="E-9" data-name="E" transform="translate(13)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.011em"><tspan x="0" y="0">E</tspan></text>
+          <text id="T-2" data-name="T" transform="translate(16)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.011em"><tspan x="0" y="0">T</tspan></text>
+          <text id="E-10" data-name="E" transform="translate(19)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.011em"><tspan x="0" y="0">E</tspan></text>
+          <text id="S-3" data-name="S" transform="translate(22)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.011em"><tspan x="0" y="0">S</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42394" data-name="Grupo 42394" clip-path="url(#clip-path-27)">
+      <g id="Grupo_42393" data-name="Grupo 42393" transform="translate(834 -134)">
+        <g id="Grupo-20" data-name="Grupo">
+          <text id="VAL" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">VAL</tspan></text>
+          <text id="I-2" data-name="I" transform="translate(11)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">I</tspan></text>
+          <text id="DACI" transform="translate(13)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">DACI</tspan></text>
+          <text id="Ó" transform="translate(27)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">Ó</tspan></text>
+          <text id="N_" data-name="N " transform="translate(31)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">N </tspan></text>
+          <text id="CO-2" data-name="CO" transform="translate(36)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">CO</tspan></text>
+          <text id="NT" transform="translate(44)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">NT</tspan></text>
+          <text id="RA_" data-name="RA " transform="translate(51)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">RA </tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42396" data-name="Grupo 42396" clip-path="url(#clip-path-27)">
+      <g id="Grupo_42395" data-name="Grupo 42395" transform="translate(849 -125)">
+        <g id="Grupo-21" data-name="Grupo">
+          <text id="MOL" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.056em"><tspan x="0" y="0">MOL</tspan></text>
+          <text id="DE-4" data-name="DE" transform="translate(12)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.056em"><tspan x="0" y="0">DE</tspan></text>
+          <text id="RÍ" transform="translate(19)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.056em"><tspan x="0" y="0">RÍ</tspan></text>
+          <text id="A-3" data-name="A" transform="translate(25)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.056em"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42398" data-name="Grupo 42398" clip-path="url(#clip-path-29)">
+      <g id="Grupo_42397" data-name="Grupo 42397" transform="translate(444 -96)">
+        <g id="Grupo-22" data-name="Grupo">
+          <text id="CUMP-7" data-name="CUMP" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">CUMP</tspan></text>
+          <text id="L-8" data-name="L" transform="translate(16)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">L</tspan></text>
+          <text id="E-11" data-name="E" transform="translate(19)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42400" data-name="Grupo 42400" clip-path="url(#clip-path-30)">
+      <g id="Grupo_42399" data-name="Grupo 42399" transform="translate(488 -96)">
+        <g id="Grupo-23" data-name="Grupo">
+          <text id="NO-5" data-name="NO" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">NO</tspan></text>
+          <text id="_8" data-name=" " transform="translate(8)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0"> </tspan></text>
+          <text id="CUMP-8" data-name="CUMP" transform="translate(9)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">CUMP</tspan></text>
+          <text id="L-9" data-name="L" transform="translate(25)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">L</tspan></text>
+          <text id="E-12" data-name="E" transform="translate(28)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42402" data-name="Grupo 42402" clip-path="url(#clip-path-31)">
+      <g id="Grupo_42401" data-name="Grupo 42401" transform="translate(540 -96)">
+        <g id="Grupo-24" data-name="Grupo">
+          <text id="CUMP-9" data-name="CUMP" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">CUMP</tspan></text>
+          <text id="L-10" data-name="L" transform="translate(16)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">L</tspan></text>
+          <text id="E-13" data-name="E" transform="translate(19)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42404" data-name="Grupo 42404" clip-path="url(#clip-path-32)">
+      <g id="Grupo_42403" data-name="Grupo 42403" transform="translate(640 -96)">
+        <g id="Grupo-25" data-name="Grupo">
+          <text id="CUMP-10" data-name="CUMP" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">CUMP</tspan></text>
+          <text id="L-11" data-name="L" transform="translate(16)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">L</tspan></text>
+          <text id="E-14" data-name="E" transform="translate(19)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42406" data-name="Grupo 42406" clip-path="url(#clip-path-33)">
+      <g id="Grupo_42405" data-name="Grupo 42405" transform="translate(386 -173)">
+        <g id="Grupo-26" data-name="Grupo">
+          <text id="MU" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">MU</tspan></text>
+          <text id="E-15" data-name="E" transform="translate(15.003)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">E</tspan></text>
+          <text id="STR" transform="translate(20.007)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">STR</tspan></text>
+          <text id="E-16" data-name="E" transform="translate(37.017)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">E</tspan></text>
+          <text id="O-4" data-name="O" transform="translate(42.021)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">O</tspan></text>
+          <text id="S_" data-name="S " transform="translate(49.023)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">S </tspan></text>
+          <text id="DE-5" data-name="DE" transform="translate(57.024)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">DE</tspan></text>
+          <text id="_9" data-name=" " transform="translate(69.03)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0"> </tspan></text>
+          <text id="C" transform="translate(71.028)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">C</tspan></text>
+          <text id="AL" transform="translate(78.03)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">AL</tspan></text>
+          <text id="I-3" data-name="I" transform="translate(89.028)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">I</tspan></text>
+          <text id="DAD_" data-name="DAD " transform="translate(92.025)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">DAD </tspan></text>
+          <text id="E-17" data-name="E" transform="translate(115.029)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">E</tspan></text>
+          <text id="N-2" data-name="N" transform="translate(120.033)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">N</tspan></text>
+          <text id="_10" data-name=" " transform="translate(127.035)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0"> </tspan></text>
+          <text id="E-18" data-name="E" transform="translate(129.033)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">E</tspan></text>
+          <text id="XTE" transform="translate(134.037)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">XTE</tspan></text>
+          <text id="N-3" data-name="N" transform="translate(151.047)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">N</tspan></text>
+          <text id="DI" transform="translate(158.049)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">DI</tspan></text>
+          <text id="DO" transform="translate(168.048)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">DO</tspan></text>
+          <text id="_11" data-name=" " transform="translate(182.052)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0"> </tspan></text>
+          <text id="Y_" data-name="Y " transform="translate(184.05)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">Y </tspan></text>
+          <text id="C-2" data-name="C" transform="translate(192.051)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">C</tspan></text>
+          <text id="O-5" data-name="O" transform="translate(199.053)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">O</tspan></text>
+          <text id="R-2" data-name="R" transform="translate(206.055)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">R</tspan></text>
+          <text id="TE" transform="translate(212.058)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.038em"><tspan x="0" y="0">TE</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42408" data-name="Grupo 42408" clip-path="url(#clip-path-34)">
+      <g id="Grupo_42407" data-name="Grupo 42407" transform="translate(54 -152)">
+        <g id="Grupo-27" data-name="Grupo">
+          <text id="AU" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.05em"><tspan x="0" y="0">AU</tspan></text>
+          <text id="DI-2" data-name="DI" transform="translate(13.001)" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.05em"><tspan x="0" y="0">DI</tspan></text>
+          <text id="TO" transform="translate(22.997)" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.05em"><tspan x="0" y="0">TO</tspan></text>
+          <text id="R-3" data-name="R" transform="translate(34.999)" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.05em"><tspan x="0" y="0">R</tspan></text>
+          <text id=":" transform="translate(41)" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.05em"><tspan x="0" y="0">:</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42410" data-name="Grupo 42410" clip-path="url(#clip-path-35)">
+      <g id="Grupo_42409" data-name="Grupo 42409" transform="translate(219 -152)">
+        <g id="Grupo-28" data-name="Grupo">
+          <text id="TRAZ" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.036em"><tspan x="0" y="0">TRAZ</tspan></text>
+          <text id="O-6" data-name="O" transform="translate(22.999)" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.036em"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42412" data-name="Grupo 42412" clip-path="url(#clip-path-36)">
+      <g id="Grupo_42411" data-name="Grupo 42411" transform="translate(396 -152)">
+        <g id="Grupo-29" data-name="Grupo">
+          <text id="EX" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.004em"><tspan x="0" y="0">EX</tspan></text>
+          <text id="T-3" data-name="T" transform="translate(11.999)" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.004em"><tspan x="0" y="0">T</tspan></text>
+          <text id="EN" transform="translate(16.999)" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.004em"><tspan x="0" y="0">EN</tspan></text>
+          <text id="D-3" data-name="D" transform="translate(28.998)" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.004em"><tspan x="0" y="0">D</tspan></text>
+          <text id="ID" transform="translate(35.996)" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.004em"><tspan x="0" y="0">ID</tspan></text>
+          <text id="O-7" data-name="O" transform="translate(45.997)" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.004em"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42414" data-name="Grupo 42414" clip-path="url(#clip-path-37)">
+      <g id="Grupo_42413" data-name="Grupo 42413" transform="translate(702 -152)">
+        <g id="Grupo-30" data-name="Grupo">
+          <text id="CO-3" data-name="CO" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.012em"><tspan x="0" y="0">CO</tspan></text>
+          <text id="RT-2" data-name="RT" transform="translate(14)" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.012em"><tspan x="0" y="0">RT</tspan></text>
+          <text id="E-19" data-name="E" transform="translate(25.004)" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.012em"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42416" data-name="Grupo 42416" clip-path="url(#clip-path-38)">
+      <g id="Grupo_42415" data-name="Grupo 42415" transform="translate(911 -119)">
+        <g id="Grupo-31" data-name="Grupo">
+          <text id="OB" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.03em"><tspan x="0" y="0">OB</tspan></text>
+          <text id="S-4" data-name="S" transform="translate(13.001)" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.03em"><tspan x="0" y="0">S</tspan></text>
+          <text id="E-20" data-name="E" transform="translate(19.003)" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.03em"><tspan x="0" y="0">E</tspan></text>
+          <text id="R-4" data-name="R" transform="translate(24.005)" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.03em"><tspan x="0" y="0">R</tspan></text>
+          <text id="VA" transform="translate(30.006)" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.03em"><tspan x="0" y="0">VA</tspan></text>
+          <text id="C-3" data-name="C" transform="translate(43.007)" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.03em"><tspan x="0" y="0">C</tspan></text>
+          <text id="I-4" data-name="I" transform="translate(50.008)" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.03em"><tspan x="0" y="0">I</tspan></text>
+          <text id="ONE" transform="translate(53.012)" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.03em"><tspan x="0" y="0">ONE</tspan></text>
+          <text id="S-5" data-name="S" transform="translate(72.014)" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.03em"><tspan x="0" y="0">S</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42418" data-name="Grupo 42418" clip-path="url(#clip-path-39)">
+      <g id="Grupo_42417" data-name="Grupo 42417" transform="translate(12 -112)">
+        <g id="Grupo-32" data-name="Grupo">
+          <text id="FE" font-size="6" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.056em"><tspan x="0" y="0">FE</tspan></text>
+          <text id="C-4" data-name="C" transform="translate(8)" font-size="6" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.056em"><tspan x="0" y="0">C</tspan></text>
+          <text id="HA" transform="translate(12.001)" font-size="6" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.056em"><tspan x="0" y="0">HA</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42420" data-name="Grupo 42420" clip-path="url(#clip-path-40)">
+      <g id="Grupo_42419" data-name="Grupo 42419" transform="translate(110 -112)">
+        <g id="Grupo-33" data-name="Grupo">
+          <text id="PR" font-size="6" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.056em"><tspan x="0" y="0">PR</tspan></text>
+          <text id="OD" transform="translate(8)" font-size="6" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.056em"><tspan x="0" y="0">OD</tspan></text>
+          <text id="U" transform="translate(17.003)" font-size="6" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.056em"><tspan x="0" y="0">U</tspan></text>
+          <text id="C-5" data-name="C" transform="translate(21.003)" font-size="6" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.056em"><tspan x="0" y="0">C</tspan></text>
+          <text id="T-4" data-name="T" transform="translate(25.003)" font-size="6" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.056em"><tspan x="0" y="0">T</tspan></text>
+          <text id="O-8" data-name="O" transform="translate(29.003)" font-size="6" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.056em"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42422" data-name="Grupo 42422" clip-path="url(#clip-path-41)">
+      <g id="Grupo_42421" data-name="Grupo 42421" transform="translate(272 -129)">
+        <g id="Grupo-34" data-name="Grupo">
+          <text id="TA" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.067em"><tspan x="0" y="0">TA</tspan></text>
+          <text id="LLA" transform="translate(7)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.067em"><tspan x="0" y="0">LLA</tspan></text>
+          <text id="S-6" data-name="S" transform="translate(17)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="-0.067em"><tspan x="0" y="0">S</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42424" data-name="Grupo 42424" clip-path="url(#clip-path-42)">
+      <g id="Grupo_42423" data-name="Grupo 42423" transform="translate(467 -129)">
+        <g id="Grupo-35" data-name="Grupo">
+          <text id="AP" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">AP</tspan></text>
+          <text id="L-12" data-name="L" transform="translate(7)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">L</tspan></text>
+          <text id="O-9" data-name="O" transform="translate(10)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">O</tspan></text>
+          <text id="ME" transform="translate(14)" font-size="5" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700" letter-spacing="0.078em"><tspan x="0" y="0">ME</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_42425" data-name="Grupo 42425" clip-path="url(#clip-path)">
+      <path id="Trazado_110372" data-name="Trazado 110372" d="M0-190H1v1H0Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42426" data-name="Grupo 42426" clip-path="url(#clip-path)">
+      <path id="Trazado_110374" data-name="Trazado 110374" d="M1-190H995v2H1Z"/>
+    </g>
+    <g id="Grupo_42427" data-name="Grupo 42427" clip-path="url(#clip-path)">
+      <path id="Trazado_110376" data-name="Trazado 110376" d="M994-190h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42428" data-name="Grupo 42428" clip-path="url(#clip-path)">
+      <path id="Trazado_110378" data-name="Trazado 110378" d="M-1-190H1v28H-1Z"/>
+    </g>
+    <g id="Grupo_42429" data-name="Grupo 42429" clip-path="url(#clip-path)">
+      <path id="Trazado_110380" data-name="Trazado 110380" d="M150-190h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42430" data-name="Grupo 42430" clip-path="url(#clip-path)">
+      <path id="Trazado_110382" data-name="Trazado 110382" d="M318-190h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42431" data-name="Grupo 42431" clip-path="url(#clip-path)">
+      <path id="Trazado_110384" data-name="Trazado 110384" d="M526-190h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42432" data-name="Grupo 42432" clip-path="url(#clip-path)">
+      <path id="Trazado_110386" data-name="Trazado 110386" d="M908-190h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42433" data-name="Grupo 42433" clip-path="url(#clip-path)">
+      <path id="Trazado_110388" data-name="Trazado 110388" d="M1-163H993v1H1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42434" data-name="Grupo 42434" clip-path="url(#clip-path)">
+      <path id="Trazado_110390" data-name="Trazado 110390" d="M993-188h2v26h-2Z"/>
+    </g>
+    <g id="Grupo_42435" data-name="Grupo 42435" clip-path="url(#clip-path)">
+      <path id="Trazado_110392" data-name="Trazado 110392" d="M45-190h1v1H45Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42436" data-name="Grupo 42436" clip-path="url(#clip-path)">
+      <path id="Trazado_110394" data-name="Trazado 110394" d="M103-190h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42437" data-name="Grupo 42437" clip-path="url(#clip-path)">
+      <path id="Trazado_110396" data-name="Trazado 110396" d="M200-190h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42438" data-name="Grupo 42438" clip-path="url(#clip-path)">
+      <path id="Trazado_110398" data-name="Trazado 110398" d="M246-190h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42439" data-name="Grupo 42439" clip-path="url(#clip-path)">
+      <path id="Trazado_110400" data-name="Trazado 110400" d="M372-190h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42440" data-name="Grupo 42440" clip-path="url(#clip-path)">
+      <path id="Trazado_110402" data-name="Trazado 110402" d="M429-190h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42441" data-name="Grupo 42441" clip-path="url(#clip-path)">
+      <path id="Trazado_110404" data-name="Trazado 110404" d="M627-190h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42442" data-name="Grupo 42442" clip-path="url(#clip-path)">
+      <path id="Trazado_110406" data-name="Trazado 110406" d="M719-190h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42443" data-name="Grupo 42443" clip-path="url(#clip-path)">
+      <path id="Trazado_110408" data-name="Trazado 110408" d="M819-190h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42444" data-name="Grupo 42444" clip-path="url(#clip-path)">
+      <path id="Trazado_110410" data-name="Trazado 110410" d="M1-147H909v1H1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42445" data-name="Grupo 42445" clip-path="url(#clip-path)">
+      <path id="Trazado_110412" data-name="Trazado 110412" d="M46-131h58v1H46Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42446" data-name="Grupo 42446" clip-path="url(#clip-path)">
+      <path id="Trazado_110414" data-name="Trazado 110414" d="M151-131h96v1H151Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42447" data-name="Grupo 42447" clip-path="url(#clip-path)">
+      <path id="Trazado_110416" data-name="Trazado 110416" d="M319-131H430v1H319Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42448" data-name="Grupo 42448" clip-path="url(#clip-path)">
+      <path id="Trazado_110418" data-name="Trazado 110418" d="M46-115h58v1H46Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42449" data-name="Grupo 42449" clip-path="url(#clip-path)">
+      <path id="Trazado_110420" data-name="Trazado 110420" d="M286-190h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42450" data-name="Grupo 42450" clip-path="url(#clip-path)">
+      <path id="Trazado_110422" data-name="Trazado 110422" d="M480-190h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42451" data-name="Grupo 42451" clip-path="url(#clip-path)">
+      <path id="Trazado_110424" data-name="Trazado 110424" d="M575-190h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42452" data-name="Grupo 42452" clip-path="url(#clip-path)">
+      <path id="Trazado_110426" data-name="Trazado 110426" d="M675-190h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42453" data-name="Grupo 42453" clip-path="url(#clip-path)">
+      <path id="Trazado_110428" data-name="Trazado 110428" d="M769-190h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42454" data-name="Grupo 42454" clip-path="url(#clip-path)">
+      <path id="Trazado_110430" data-name="Trazado 110430" d="M865-190h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42455" data-name="Grupo 42455" clip-path="url(#clip-path)">
+      <path id="Trazado_110432" data-name="Trazado 110432" d="M151-115H909v1H151Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42456" data-name="Grupo 42456" clip-path="url(#clip-path)">
+      <path id="Trazado_110434" data-name="Trazado 110434" d="M46-98h58v1H46Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42457" data-name="Grupo 42457" clip-path="url(#clip-path)">
+      <path id="Trazado_110436" data-name="Trazado 110436" d="M151-98h96v1H151Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42458" data-name="Grupo 42458" clip-path="url(#clip-path)">
+      <path id="Trazado_110438" data-name="Trazado 110438" d="M319-98H430v1H319Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42459" data-name="Grupo 42459" clip-path="url(#clip-path)">
+      <path id="Trazado_110440" data-name="Trazado 110440" d="M576-98h52v1H576Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42460" data-name="Grupo 42460" clip-path="url(#clip-path)">
+      <path id="Trazado_110442" data-name="Trazado 110442" d="M1-81H995v1H1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42461" data-name="Grupo 42461" clip-path="url(#clip-path)">
+      <path id="Trazado_110444" data-name="Trazado 110444" d="M1-65H995v1H1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42462" data-name="Grupo 42462" clip-path="url(#clip-path)">
+      <path id="Trazado_110446" data-name="Trazado 110446" d="M1-49H995v1H1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42463" data-name="Grupo 42463" clip-path="url(#clip-path)">
+      <path id="Trazado_110448" data-name="Trazado 110448" d="M1-33H995v1H1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42464" data-name="Grupo 42464" clip-path="url(#clip-path)">
+      <path id="Trazado_110450" data-name="Trazado 110450" d="M1-17H995v1H1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42465" data-name="Grupo 42465" clip-path="url(#clip-path)">
+      <path id="Trazado_110452" data-name="Trazado 110452" d="M0-162H1V0H0Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42466" data-name="Grupo 42466" clip-path="url(#clip-path)">
+      <path id="Trazado_110454" data-name="Trazado 110454" d="M45-146h1V0H45Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42467" data-name="Grupo 42467" clip-path="url(#clip-path)">
+      <path id="Trazado_110456" data-name="Trazado 110456" d="M103-146h1V0h-1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42468" data-name="Grupo 42468" clip-path="url(#clip-path)">
+      <path id="Trazado_110458" data-name="Trazado 110458" d="M150-162h1V0h-1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42469" data-name="Grupo 42469" clip-path="url(#clip-path)">
+      <path id="Trazado_110460" data-name="Trazado 110460" d="M200-146h1V0h-1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42470" data-name="Grupo 42470" clip-path="url(#clip-path)">
+      <path id="Trazado_110462" data-name="Trazado 110462" d="M246-146h1V0h-1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42471" data-name="Grupo 42471" clip-path="url(#clip-path)">
+      <path id="Trazado_110464" data-name="Trazado 110464" d="M286-114h1V0h-1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42472" data-name="Grupo 42472" clip-path="url(#clip-path)">
+      <path id="Trazado_110466" data-name="Trazado 110466" d="M318-162h1V0h-1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42473" data-name="Grupo 42473" clip-path="url(#clip-path)">
+      <path id="Trazado_110468" data-name="Trazado 110468" d="M372-146h1V0h-1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42474" data-name="Grupo 42474" clip-path="url(#clip-path)">
+      <path id="Trazado_110470" data-name="Trazado 110470" d="M429-146h1V0h-1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42475" data-name="Grupo 42475" clip-path="url(#clip-path)">
+      <path id="Trazado_110472" data-name="Trazado 110472" d="M480-114h1V0h-1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42476" data-name="Grupo 42476" clip-path="url(#clip-path)">
+      <path id="Trazado_110474" data-name="Trazado 110474" d="M526-162h1V0h-1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42477" data-name="Grupo 42477" clip-path="url(#clip-path)">
+      <path id="Trazado_110476" data-name="Trazado 110476" d="M575-114h1V0h-1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42478" data-name="Grupo 42478" clip-path="url(#clip-path)">
+      <path id="Trazado_110478" data-name="Trazado 110478" d="M627-146h1V0h-1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42479" data-name="Grupo 42479" clip-path="url(#clip-path)">
+      <path id="Trazado_110480" data-name="Trazado 110480" d="M675-114h1V0h-1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42480" data-name="Grupo 42480" clip-path="url(#clip-path)">
+      <path id="Trazado_110482" data-name="Trazado 110482" d="M719-146h1V0h-1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42481" data-name="Grupo 42481" clip-path="url(#clip-path)">
+      <path id="Trazado_110484" data-name="Trazado 110484" d="M769-114h1V0h-1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42482" data-name="Grupo 42482" clip-path="url(#clip-path)">
+      <path id="Trazado_110486" data-name="Trazado 110486" d="M819-146h1V0h-1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42483" data-name="Grupo 42483" clip-path="url(#clip-path)">
+      <path id="Trazado_110488" data-name="Trazado 110488" d="M865-114h1V0h-1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42484" data-name="Grupo 42484" clip-path="url(#clip-path)">
+      <path id="Trazado_110490" data-name="Trazado 110490" d="M908-162h1V0h-1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42485" data-name="Grupo 42485" clip-path="url(#clip-path)">
+      <path id="Trazado_110492" data-name="Trazado 110492" d="M1-1H995V0H1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42486" data-name="Grupo 42486" clip-path="url(#clip-path)">
+      <path id="Trazado_110494" data-name="Trazado 110494" d="M994-162h1V0h-1Z" fill="#1e8aff"/>
+    </g>
+    <g id="Grupo_42487" data-name="Grupo 42487" clip-path="url(#clip-path)">
+      <path id="Trazado_110496" data-name="Trazado 110496" d="M0,0H1V1H0Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42488" data-name="Grupo 42488" clip-path="url(#clip-path)">
+      <path id="Trazado_110498" data-name="Trazado 110498" d="M45,0h1V1H45Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42489" data-name="Grupo 42489" clip-path="url(#clip-path)">
+      <path id="Trazado_110500" data-name="Trazado 110500" d="M103,0h1V1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42490" data-name="Grupo 42490" clip-path="url(#clip-path)">
+      <path id="Trazado_110502" data-name="Trazado 110502" d="M150,0h1V1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42491" data-name="Grupo 42491" clip-path="url(#clip-path)">
+      <path id="Trazado_110504" data-name="Trazado 110504" d="M200,0h1V1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42492" data-name="Grupo 42492" clip-path="url(#clip-path)">
+      <path id="Trazado_110506" data-name="Trazado 110506" d="M246,0h1V1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42493" data-name="Grupo 42493" clip-path="url(#clip-path)">
+      <path id="Trazado_110508" data-name="Trazado 110508" d="M286,0h1V1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42494" data-name="Grupo 42494" clip-path="url(#clip-path)">
+      <path id="Trazado_110510" data-name="Trazado 110510" d="M318,0h1V1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42495" data-name="Grupo 42495" clip-path="url(#clip-path)">
+      <path id="Trazado_110512" data-name="Trazado 110512" d="M372,0h1V1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42496" data-name="Grupo 42496" clip-path="url(#clip-path)">
+      <path id="Trazado_110514" data-name="Trazado 110514" d="M429,0h1V1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42497" data-name="Grupo 42497" clip-path="url(#clip-path)">
+      <path id="Trazado_110516" data-name="Trazado 110516" d="M480,0h1V1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42498" data-name="Grupo 42498" clip-path="url(#clip-path)">
+      <path id="Trazado_110518" data-name="Trazado 110518" d="M526,0h1V1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42499" data-name="Grupo 42499" clip-path="url(#clip-path)">
+      <path id="Trazado_110520" data-name="Trazado 110520" d="M575,0h1V1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42500" data-name="Grupo 42500" clip-path="url(#clip-path)">
+      <path id="Trazado_110522" data-name="Trazado 110522" d="M627,0h1V1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42501" data-name="Grupo 42501" clip-path="url(#clip-path)">
+      <path id="Trazado_110524" data-name="Trazado 110524" d="M675,0h1V1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42502" data-name="Grupo 42502" clip-path="url(#clip-path)">
+      <path id="Trazado_110526" data-name="Trazado 110526" d="M719,0h1V1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42503" data-name="Grupo 42503" clip-path="url(#clip-path)">
+      <path id="Trazado_110528" data-name="Trazado 110528" d="M769,0h1V1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42504" data-name="Grupo 42504" clip-path="url(#clip-path)">
+      <path id="Trazado_110530" data-name="Trazado 110530" d="M819,0h1V1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42505" data-name="Grupo 42505" clip-path="url(#clip-path)">
+      <path id="Trazado_110532" data-name="Trazado 110532" d="M865,0h1V1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42506" data-name="Grupo 42506" clip-path="url(#clip-path)">
+      <path id="Trazado_110534" data-name="Trazado 110534" d="M908,0h1V1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42507" data-name="Grupo 42507" clip-path="url(#clip-path)">
+      <path id="Trazado_110536" data-name="Trazado 110536" d="M994,0h1V1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42508" data-name="Grupo 42508" clip-path="url(#clip-path)">
+      <path id="Trazado_110538" data-name="Trazado 110538" d="M995-189h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42509" data-name="Grupo 42509" clip-path="url(#clip-path)">
+      <path id="Trazado_110540" data-name="Trazado 110540" d="M995-163h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42510" data-name="Grupo 42510" clip-path="url(#clip-path)">
+      <path id="Trazado_110542" data-name="Trazado 110542" d="M995-147h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42511" data-name="Grupo 42511" clip-path="url(#clip-path)">
+      <path id="Trazado_110544" data-name="Trazado 110544" d="M995-131h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42512" data-name="Grupo 42512" clip-path="url(#clip-path)">
+      <path id="Trazado_110546" data-name="Trazado 110546" d="M995-115h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42513" data-name="Grupo 42513" clip-path="url(#clip-path)">
+      <path id="Trazado_110548" data-name="Trazado 110548" d="M995-98h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42514" data-name="Grupo 42514" clip-path="url(#clip-path)">
+      <path id="Trazado_110550" data-name="Trazado 110550" d="M995-81h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42515" data-name="Grupo 42515" clip-path="url(#clip-path)">
+      <path id="Trazado_110552" data-name="Trazado 110552" d="M995-65h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42516" data-name="Grupo 42516" clip-path="url(#clip-path)">
+      <path id="Trazado_110554" data-name="Trazado 110554" d="M995-49h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42517" data-name="Grupo 42517" clip-path="url(#clip-path)">
+      <path id="Trazado_110556" data-name="Trazado 110556" d="M995-33h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42518" data-name="Grupo 42518" clip-path="url(#clip-path)">
+      <path id="Trazado_110558" data-name="Trazado 110558" d="M995-17h1v1h-1Z" fill="#d3d3d3"/>
+    </g>
+    <g id="Grupo_42519" data-name="Grupo 42519" clip-path="url(#clip-path)">
+      <path id="Trazado_110560" data-name="Trazado 110560" d="M995-1h1V0h-1Z" fill="#d3d3d3"/>
+    </g>
+  </g>
+</svg>
